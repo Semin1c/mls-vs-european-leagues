@@ -1,0 +1,1681 @@
+League,Season,Rk,Team,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Notes
+Premier League,2010-2011,1,Manchester Utd,38,23,11,4,78,37,41,80,2.11,→ Champions League via league finish
+Premier League,2010-2011,2,Chelsea,38,21,8,9,69,33,36,71,1.87,→ Champions League via league finish
+Premier League,2010-2011,3,Manchester City,38,21,8,9,60,33,27,71,1.87,→ Champions League via league finish
+Premier League,2010-2011,4,Arsenal,38,19,11,8,72,43,29,68,1.79,→ Champions League via league finish
+Premier League,2010-2011,5,Tottenham,38,16,14,8,55,46,9,62,1.63,→ Europa League via league finish
+Premier League,2010-2011,6,Liverpool,38,17,7,14,59,44,15,58,1.53,
+Premier League,2010-2011,7,Everton,38,13,15,10,51,45,6,54,1.42,
+Premier League,2010-2011,8,Fulham,38,11,16,11,49,43,6,49,1.29,→ Europa League 1
+Premier League,2010-2011,9,Aston Villa,38,12,12,14,48,59,-11,48,1.26,
+Premier League,2010-2011,10,Sunderland,38,12,11,15,45,56,-11,47,1.24,
+Premier League,2010-2011,11,West Brom,38,12,11,15,56,71,-15,47,1.24,
+Premier League,2010-2011,12,Newcastle Utd,38,11,13,14,56,57,-1,46,1.21,
+Premier League,2010-2011,13,Stoke City,38,13,7,18,46,48,-2,46,1.21,→ Europa League via cup loss 2
+Premier League,2010-2011,14,Bolton,38,12,10,16,52,56,-4,46,1.21,
+Premier League,2010-2011,15,Blackburn,38,11,10,17,46,59,-13,43,1.13,
+Premier League,2010-2011,16,Wigan Athletic,38,9,15,14,40,61,-21,42,1.11,
+Premier League,2010-2011,17,Wolves,38,11,7,20,46,66,-20,40,1.05,
+Premier League,2010-2011,18,Birmingham City,38,8,15,15,37,58,-21,39,1.03,"Relegated, → Europa League via cup win"
+Premier League,2010-2011,19,Blackpool,38,10,9,19,55,78,-23,39,1.03,Relegated
+Premier League,2010-2011,20,West Ham,38,7,12,19,43,70,-27,33,0.87,Relegated
+Premier League,2011-2012,1,Manchester City,38,28,5,5,93,29,64,89,2.34,→ Champions League via league finish
+Premier League,2011-2012,2,Manchester Utd,38,28,5,5,89,33,56,89,2.34,→ Champions League via league finish
+Premier League,2011-2012,3,Arsenal,38,21,7,10,74,49,25,70,1.84,→ Champions League via league finish
+Premier League,2011-2012,4,Tottenham,38,20,9,9,66,41,25,69,1.82,→ Europa League via league finish
+Premier League,2011-2012,5,Newcastle Utd,38,19,8,11,56,51,5,65,1.71,→ Europa League via league finish
+Premier League,2011-2012,6,Chelsea,38,18,10,10,65,46,19,64,1.68,→ Champions League via Champions League win
+Premier League,2011-2012,7,Everton,38,15,11,12,50,40,10,56,1.47,
+Premier League,2011-2012,8,Liverpool,38,14,10,14,47,40,7,52,1.37,→ Europa League via cup win 1
+Premier League,2011-2012,9,Fulham,38,14,10,14,48,51,-3,52,1.37,
+Premier League,2011-2012,10,West Brom,38,13,8,17,45,52,-7,47,1.24,
+Premier League,2011-2012,11,Swansea City,38,12,11,15,44,51,-7,47,1.24,
+Premier League,2011-2012,12,Norwich City,38,12,11,15,52,66,-14,47,1.24,
+Premier League,2011-2012,13,Sunderland,38,11,12,15,45,46,-1,45,1.18,
+Premier League,2011-2012,14,Stoke City,38,11,12,15,36,53,-17,45,1.18,
+Premier League,2011-2012,15,Wigan Athletic,38,11,10,17,42,62,-20,43,1.13,
+Premier League,2011-2012,16,Aston Villa,38,7,17,14,37,53,-16,38,1.0,
+Premier League,2011-2012,17,QPR,38,10,7,21,43,66,-23,37,0.97,
+Premier League,2011-2012,18,Bolton,38,10,6,22,46,77,-31,36,0.95,Relegated
+Premier League,2011-2012,19,Blackburn,38,8,7,23,48,78,-30,31,0.82,Relegated
+Premier League,2011-2012,20,Wolves,38,5,10,23,40,82,-42,25,0.66,Relegated
+Premier League,2012-2013,1,Manchester Utd,38,28,5,5,86,43,43,89,2.34,→ Champions League via league finish
+Premier League,2012-2013,2,Manchester City,38,23,9,6,66,34,32,78,2.05,→ Champions League via league finish
+Premier League,2012-2013,3,Chelsea,38,22,9,7,75,39,36,75,1.97,→ Champions League via league finish
+Premier League,2012-2013,4,Arsenal,38,21,10,7,72,37,35,73,1.92,→ Champions League via league finish
+Premier League,2012-2013,5,Tottenham,38,21,9,8,66,46,20,72,1.89,→ Europa League via league finish
+Premier League,2012-2013,6,Everton,38,16,15,7,55,40,15,63,1.66,
+Premier League,2012-2013,7,Liverpool,38,16,13,9,71,43,28,61,1.61,
+Premier League,2012-2013,8,West Brom,38,14,7,17,53,57,-4,49,1.29,
+Premier League,2012-2013,9,Swansea City,38,11,13,14,47,51,-4,46,1.21,→ Europa League via cup win 1
+Premier League,2012-2013,10,West Ham,38,12,10,16,45,53,-8,46,1.21,
+Premier League,2012-2013,11,Norwich City,38,10,14,14,41,58,-17,44,1.16,
+Premier League,2012-2013,12,Fulham,38,11,10,17,50,60,-10,43,1.13,
+Premier League,2012-2013,13,Stoke City,38,9,15,14,34,45,-11,42,1.11,
+Premier League,2012-2013,14,Southampton,38,9,14,15,49,60,-11,41,1.08,
+Premier League,2012-2013,15,Aston Villa,38,10,11,17,47,69,-22,41,1.08,
+Premier League,2012-2013,16,Newcastle Utd,38,11,8,19,45,68,-23,41,1.08,
+Premier League,2012-2013,17,Sunderland,38,9,12,17,41,54,-13,39,1.03,
+Premier League,2012-2013,18,Wigan Athletic,38,9,9,20,47,73,-26,36,0.95,"Relegated, → Europa League via cup win 2"
+Premier League,2012-2013,19,Reading,38,6,10,22,43,73,-30,28,0.74,Relegated
+Premier League,2012-2013,20,QPR,38,4,13,21,30,60,-30,25,0.66,Relegated
+Premier League,2013-2014,1,Manchester City,38,27,5,6,102,37,65,86,2.26,→ Champions League via league finish
+Premier League,2013-2014,2,Liverpool,38,26,6,6,101,50,51,84,2.21,→ Champions League via league finish
+Premier League,2013-2014,3,Chelsea,38,25,7,6,71,27,44,82,2.16,→ Champions League via league finish
+Premier League,2013-2014,4,Arsenal,38,24,7,7,68,41,27,79,2.08,→ Champions League via league finish
+Premier League,2013-2014,5,Everton,38,21,9,8,61,39,22,72,1.89,→ Europa League via league finish 1
+Premier League,2013-2014,6,Tottenham,38,21,6,11,55,51,4,69,1.82,→ Europa League via league finish
+Premier League,2013-2014,7,Manchester Utd,38,19,7,12,64,43,21,64,1.68,
+Premier League,2013-2014,8,Southampton,38,15,11,12,54,46,8,56,1.47,
+Premier League,2013-2014,9,Stoke City,38,13,11,14,45,52,-7,50,1.32,
+Premier League,2013-2014,10,Newcastle Utd,38,15,4,19,43,59,-16,49,1.29,
+Premier League,2013-2014,11,Crystal Palace,38,13,6,19,33,48,-15,45,1.18,
+Premier League,2013-2014,12,Swansea City,38,11,9,18,54,54,0,42,1.11,
+Premier League,2013-2014,13,West Ham,38,11,7,20,40,51,-11,40,1.05,
+Premier League,2013-2014,14,Sunderland,38,10,8,20,41,60,-19,38,1.0,
+Premier League,2013-2014,15,Aston Villa,38,10,8,20,39,61,-22,38,1.0,
+Premier League,2013-2014,16,Hull City,38,10,7,21,38,53,-15,37,0.97,→ Europa League via cup loss 2
+Premier League,2013-2014,17,West Brom,38,7,15,16,43,59,-16,36,0.95,
+Premier League,2013-2014,18,Norwich City,38,8,9,21,28,62,-34,33,0.87,Relegated
+Premier League,2013-2014,19,Fulham,38,9,5,24,40,85,-45,32,0.84,Relegated
+Premier League,2013-2014,20,Cardiff City,38,7,9,22,32,74,-42,30,0.79,Relegated
+Premier League,2014-2015,1,Chelsea,38,26,9,3,73,32,41,87,2.29,→ Champions League via league finish
+Premier League,2014-2015,2,Manchester City,38,24,7,7,83,38,45,79,2.08,→ Champions League via league finish
+Premier League,2014-2015,3,Arsenal,38,22,9,7,71,36,35,75,1.97,→ Champions League via league finish
+Premier League,2014-2015,4,Manchester Utd,38,20,10,8,62,37,25,70,1.84,→ Champions League via league finish
+Premier League,2014-2015,5,Tottenham,38,19,7,12,58,53,5,64,1.68,→ Europa League via league finish
+Premier League,2014-2015,6,Liverpool,38,18,8,12,52,48,4,62,1.63,→ Europa League via league finish 1
+Premier League,2014-2015,7,Southampton,38,18,6,14,54,33,21,60,1.58,→ Europa League via league finish 2
+Premier League,2014-2015,8,Swansea City,38,16,8,14,46,49,-3,56,1.47,
+Premier League,2014-2015,9,Stoke City,38,15,9,14,48,45,3,54,1.42,
+Premier League,2014-2015,10,Crystal Palace,38,13,9,16,47,51,-4,48,1.26,
+Premier League,2014-2015,11,Everton,38,12,11,15,48,50,-2,47,1.24,
+Premier League,2014-2015,12,West Ham,38,12,11,15,44,47,-3,47,1.24,→ Europa League 3
+Premier League,2014-2015,13,West Brom,38,11,11,16,38,51,-13,44,1.16,
+Premier League,2014-2015,14,Leicester City,38,11,8,19,46,55,-9,41,1.08,
+Premier League,2014-2015,15,Newcastle Utd,38,10,9,19,40,63,-23,39,1.03,
+Premier League,2014-2015,16,Sunderland,38,7,17,14,31,53,-22,38,1.0,
+Premier League,2014-2015,17,Aston Villa,38,10,8,20,31,57,-26,38,1.0,
+Premier League,2014-2015,18,Hull City,38,8,11,19,33,51,-18,35,0.92,Relegated
+Premier League,2014-2015,19,Burnley,38,7,12,19,28,53,-25,33,0.87,Relegated
+Premier League,2014-2015,20,QPR,38,8,6,24,42,73,-31,30,0.79,Relegated
+Premier League,2015-2016,1,Leicester City,38,23,12,3,68,36,32,81,2.13,→ Champions League via league finish
+Premier League,2015-2016,2,Arsenal,38,20,11,7,65,36,29,71,1.87,→ Champions League via league finish
+Premier League,2015-2016,3,Tottenham,38,19,13,6,69,35,34,70,1.84,→ Champions League via league finish
+Premier League,2015-2016,4,Manchester City,38,19,9,10,71,41,30,66,1.74,→ Champions League via league finish
+Premier League,2015-2016,5,Manchester Utd,38,19,9,10,49,35,14,66,1.74,→ Europa League via cup win 1
+Premier League,2015-2016,6,Southampton,38,18,9,11,59,41,18,63,1.66,→ Europa League via league finish 2
+Premier League,2015-2016,7,West Ham,38,16,14,8,65,51,14,62,1.63,→ Europa League via league finish 3
+Premier League,2015-2016,8,Liverpool,38,16,12,10,63,50,13,60,1.58,
+Premier League,2015-2016,9,Stoke City,38,14,9,15,41,55,-14,51,1.34,
+Premier League,2015-2016,10,Chelsea,38,12,14,12,59,53,6,50,1.32,
+Premier League,2015-2016,11,Everton,38,11,14,13,59,55,4,47,1.24,
+Premier League,2015-2016,12,Swansea City,38,12,11,15,42,52,-10,47,1.24,
+Premier League,2015-2016,13,Watford,38,12,9,17,40,50,-10,45,1.18,
+Premier League,2015-2016,14,West Brom,38,10,13,15,34,48,-14,43,1.13,
+Premier League,2015-2016,15,Crystal Palace,38,11,9,18,39,51,-12,42,1.11,
+Premier League,2015-2016,16,Bournemouth,38,11,9,18,45,67,-22,42,1.11,
+Premier League,2015-2016,17,Sunderland,38,9,12,17,48,62,-14,39,1.03,
+Premier League,2015-2016,18,Newcastle Utd,38,9,10,19,44,65,-21,37,0.97,Relegated
+Premier League,2015-2016,19,Norwich City,38,9,7,22,39,67,-28,34,0.89,Relegated
+Premier League,2015-2016,20,Aston Villa,38,3,8,27,27,76,-49,17,0.45,Relegated
+Premier League,2016-2017,1,Chelsea,38,30,3,5,85,33,52,93,2.45,→ Champions League via league finish
+Premier League,2016-2017,2,Tottenham,38,26,8,4,86,26,60,86,2.26,→ Champions League via league finish
+Premier League,2016-2017,3,Manchester City,38,23,9,6,80,39,41,78,2.05,→ Champions League via league finish
+Premier League,2016-2017,4,Liverpool,38,22,10,6,78,42,36,76,2.0,→ Champions League via league finish
+Premier League,2016-2017,5,Arsenal,38,23,6,9,77,44,33,75,1.97,→ Europa League via cup win 1
+Premier League,2016-2017,6,Manchester Utd,38,18,15,5,54,29,25,69,1.82,→ Champions League via Europa League win
+Premier League,2016-2017,7,Everton,38,17,10,11,62,44,18,61,1.61,→ Europa League via league finish
+Premier League,2016-2017,8,Southampton,38,12,10,16,41,48,-7,46,1.21,
+Premier League,2016-2017,9,Bournemouth,38,12,10,16,55,67,-12,46,1.21,
+Premier League,2016-2017,10,West Brom,38,12,9,17,43,51,-8,45,1.18,
+Premier League,2016-2017,11,West Ham,38,12,9,17,47,64,-17,45,1.18,
+Premier League,2016-2017,12,Leicester City,38,12,8,18,48,63,-15,44,1.16,
+Premier League,2016-2017,13,Stoke City,38,11,11,16,41,56,-15,44,1.16,
+Premier League,2016-2017,14,Crystal Palace,38,12,5,21,50,63,-13,41,1.08,
+Premier League,2016-2017,15,Swansea City,38,12,5,21,45,70,-25,41,1.08,
+Premier League,2016-2017,16,Burnley,38,11,7,20,39,55,-16,40,1.05,
+Premier League,2016-2017,17,Watford,38,11,7,20,40,68,-28,40,1.05,
+Premier League,2016-2017,18,Hull City,38,9,7,22,37,80,-43,34,0.89,Relegated
+Premier League,2016-2017,19,Middlesbrough,38,5,13,20,27,53,-26,28,0.74,Relegated
+Premier League,2016-2017,20,Sunderland,38,6,6,26,29,69,-40,24,0.63,Relegated
+Premier League,2017-2018,1,Manchester City,38,32,4,2,106,27,79,100,2.63,→ Champions League via league finish
+Premier League,2017-2018,2,Manchester Utd,38,25,6,7,68,28,40,81,2.13,→ Champions League via league finish
+Premier League,2017-2018,3,Tottenham,38,23,8,7,74,36,38,77,2.03,→ Champions League via league finish
+Premier League,2017-2018,4,Liverpool,38,21,12,5,84,38,46,75,1.97,→ Champions League via league finish
+Premier League,2017-2018,5,Chelsea,38,21,7,10,62,38,24,70,1.84,→ Europa League via cup win 1
+Premier League,2017-2018,6,Arsenal,38,19,6,13,74,51,23,63,1.66,→ Europa League via league finish
+Premier League,2017-2018,7,Burnley,38,14,12,12,36,39,-3,54,1.42,→ Europa League via league finish 2
+Premier League,2017-2018,8,Everton,38,13,10,15,44,58,-14,49,1.29,
+Premier League,2017-2018,9,Leicester City,38,12,11,15,56,60,-4,47,1.24,
+Premier League,2017-2018,10,Newcastle Utd,38,12,8,18,39,47,-8,44,1.16,
+Premier League,2017-2018,11,Crystal Palace,38,11,11,16,45,55,-10,44,1.16,
+Premier League,2017-2018,12,Bournemouth,38,11,11,16,45,61,-16,44,1.16,
+Premier League,2017-2018,13,West Ham,38,10,12,16,48,68,-20,42,1.11,
+Premier League,2017-2018,14,Watford,38,11,8,19,44,64,-20,41,1.08,
+Premier League,2017-2018,15,Brighton,38,9,13,16,34,54,-20,40,1.05,
+Premier League,2017-2018,16,Huddersfield,38,9,10,19,28,58,-30,37,0.97,
+Premier League,2017-2018,17,Southampton,38,7,15,16,37,56,-19,36,0.95,
+Premier League,2017-2018,18,Swansea City,38,8,9,21,28,56,-28,33,0.87,Relegated
+Premier League,2017-2018,19,Stoke City,38,7,12,19,35,68,-33,33,0.87,Relegated
+Premier League,2017-2018,20,West Brom,38,6,13,19,31,56,-25,31,0.82,Relegated
+Premier League,2018-2019,1,Manchester City,38,32,2,4,95,23,72,98,2.58,→ Champions League via league finish
+Premier League,2018-2019,2,Liverpool,38,30,7,1,89,22,67,97,2.55,→ Champions League via league finish
+Premier League,2018-2019,3,Chelsea,38,21,9,8,63,39,24,72,1.89,→ Champions League via league finish
+Premier League,2018-2019,4,Tottenham,38,23,2,13,67,39,28,71,1.87,→ Champions League via league finish
+Premier League,2018-2019,5,Arsenal,38,21,7,10,73,51,22,70,1.84,→ Europa League via league finish
+Premier League,2018-2019,6,Manchester Utd,38,19,9,10,65,54,11,66,1.74,→ Europa League via league finish 1
+Premier League,2018-2019,7,Wolves,38,16,9,13,47,46,1,57,1.5,→ Europa League via league finish
+Premier League,2018-2019,8,Everton,38,15,9,14,54,46,8,54,1.42,
+Premier League,2018-2019,9,Leicester City,38,15,7,16,51,48,3,52,1.37,
+Premier League,2018-2019,10,West Ham,38,15,7,16,52,55,-3,52,1.37,
+Premier League,2018-2019,11,Watford,38,14,8,16,52,59,-7,50,1.32,
+Premier League,2018-2019,12,Crystal Palace,38,14,7,17,51,53,-2,49,1.29,
+Premier League,2018-2019,13,Newcastle Utd,38,12,9,17,42,48,-6,45,1.18,
+Premier League,2018-2019,14,Bournemouth,38,13,6,19,56,70,-14,45,1.18,
+Premier League,2018-2019,15,Burnley,38,11,7,20,45,68,-23,40,1.05,
+Premier League,2018-2019,16,Southampton,38,9,12,17,45,65,-20,39,1.03,
+Premier League,2018-2019,17,Brighton,38,9,9,20,35,60,-25,36,0.95,
+Premier League,2018-2019,18,Cardiff City,38,10,4,24,34,69,-35,34,0.89,Relegated
+Premier League,2018-2019,19,Fulham,38,7,5,26,34,81,-47,26,0.68,Relegated
+Premier League,2018-2019,20,Huddersfield,38,3,7,28,22,76,-54,16,0.42,Relegated
+Premier League,2019-2020,1,Liverpool,38,32,3,3,85,33,52,99,2.61,→ Champions League via league finish
+Premier League,2019-2020,2,Manchester City,38,26,3,9,102,35,67,81,2.13,→ Champions League via league finish
+Premier League,2019-2020,3,Manchester Utd,38,18,12,8,66,36,30,66,1.74,→ Champions League via league finish
+Premier League,2019-2020,4,Chelsea,38,20,6,12,69,54,15,66,1.74,→ Champions League via league finish
+Premier League,2019-2020,5,Leicester City,38,18,8,12,67,41,26,62,1.63,→ Europa League via league finish
+Premier League,2019-2020,6,Tottenham,38,16,11,11,61,47,14,59,1.55,→ Europa League via league finish 1
+Premier League,2019-2020,7,Wolves,38,15,14,9,51,40,11,59,1.55,
+Premier League,2019-2020,8,Arsenal,38,14,14,10,56,48,8,56,1.47,→ Europa League via cup win 2
+Premier League,2019-2020,9,Sheffield Utd,38,14,12,12,39,39,0,54,1.42,
+Premier League,2019-2020,10,Burnley,38,15,9,14,43,50,-7,54,1.42,
+Premier League,2019-2020,11,Southampton,38,15,7,16,51,60,-9,52,1.37,
+Premier League,2019-2020,12,Everton,38,13,10,15,44,56,-12,49,1.29,
+Premier League,2019-2020,13,Newcastle Utd,38,11,11,16,38,58,-20,44,1.16,
+Premier League,2019-2020,14,Crystal Palace,38,11,10,17,31,50,-19,43,1.13,
+Premier League,2019-2020,15,Brighton,38,9,14,15,39,54,-15,41,1.08,
+Premier League,2019-2020,16,West Ham,38,10,9,19,49,62,-13,39,1.03,
+Premier League,2019-2020,17,Aston Villa,38,9,8,21,41,67,-26,35,0.92,
+Premier League,2019-2020,18,Bournemouth,38,9,7,22,40,65,-25,34,0.89,Relegated
+Premier League,2019-2020,19,Watford,38,8,10,20,36,64,-28,34,0.89,Relegated
+Premier League,2019-2020,20,Norwich City,38,5,6,27,26,75,-49,21,0.55,Relegated
+Premier League,2020-2021,1,Manchester City,38,27,5,6,83,32,51,86,2.26,→ Champions League via league finish
+Premier League,2020-2021,2,Manchester Utd,38,21,11,6,73,44,29,74,1.95,→ Champions League via league finish
+Premier League,2020-2021,3,Liverpool,38,20,9,9,68,42,26,69,1.82,→ Champions League via league finish
+Premier League,2020-2021,4,Chelsea,38,19,10,9,58,36,22,67,1.76,→ Champions League via league finish
+Premier League,2020-2021,5,Leicester City,38,20,6,12,68,50,18,66,1.74,→ Europa League via cup win
+Premier League,2020-2021,6,West Ham,38,19,8,11,62,47,15,65,1.71,→ Europa League via league finish
+Premier League,2020-2021,7,Tottenham,38,18,8,12,68,45,23,62,1.63,→ Europa Conference League via league finish 1
+Premier League,2020-2021,8,Arsenal,38,18,7,13,55,39,16,61,1.61,
+Premier League,2020-2021,9,Leeds United,38,18,5,15,62,54,8,59,1.55,
+Premier League,2020-2021,10,Everton,38,17,8,13,47,48,-1,59,1.55,
+Premier League,2020-2021,11,Aston Villa,38,16,7,15,55,46,9,55,1.45,
+Premier League,2020-2021,12,Newcastle Utd,38,12,9,17,46,62,-16,45,1.18,
+Premier League,2020-2021,13,Wolves,38,12,9,17,36,52,-16,45,1.18,
+Premier League,2020-2021,14,Crystal Palace,38,12,8,18,41,66,-25,44,1.16,
+Premier League,2020-2021,15,Southampton,38,12,7,19,47,68,-21,43,1.13,
+Premier League,2020-2021,16,Brighton,38,9,14,15,40,46,-6,41,1.08,
+Premier League,2020-2021,17,Burnley,38,10,9,19,33,55,-22,39,1.03,
+Premier League,2020-2021,18,Fulham,38,5,13,20,27,53,-26,28,0.74,Relegated
+Premier League,2020-2021,19,West Brom,38,5,11,22,35,76,-41,26,0.68,Relegated
+Premier League,2020-2021,20,Sheffield Utd,38,7,2,29,20,63,-43,23,0.61,Relegated
+Premier League,2021-2022,1,Manchester City,38,29,6,3,99,26,73,93,2.45,→ Champions League via league finish
+Premier League,2021-2022,2,Liverpool,38,28,8,2,94,26,68,92,2.42,→ Champions League via league finish
+Premier League,2021-2022,3,Chelsea,38,21,11,6,76,33,43,74,1.95,→ Champions League via league finish
+Premier League,2021-2022,4,Tottenham,38,22,5,11,69,40,29,71,1.87,→ Champions League via league finish
+Premier League,2021-2022,5,Arsenal,38,22,3,13,61,48,13,69,1.82,→ Europa League via league finish
+Premier League,2021-2022,6,Manchester Utd,38,16,10,12,57,57,0,58,1.53,→ Europa League via league finish
+Premier League,2021-2022,7,West Ham,38,16,8,14,60,51,9,56,1.47,→ Europa Conference League via league finish
+Premier League,2021-2022,8,Leicester City,38,14,10,14,62,59,3,52,1.37,
+Premier League,2021-2022,9,Brighton,38,12,15,11,42,44,-2,51,1.34,
+Premier League,2021-2022,10,Wolves,38,15,6,17,38,43,-5,51,1.34,
+Premier League,2021-2022,11,Newcastle Utd,38,13,10,15,44,62,-18,49,1.29,
+Premier League,2021-2022,12,Crystal Palace,38,11,15,12,50,46,4,48,1.26,
+Premier League,2021-2022,13,Brentford,38,13,7,18,48,56,-8,46,1.21,
+Premier League,2021-2022,14,Aston Villa,38,13,6,19,52,54,-2,45,1.18,
+Premier League,2021-2022,15,Southampton,38,9,13,16,43,67,-24,40,1.05,
+Premier League,2021-2022,16,Everton,38,11,6,21,43,66,-23,39,1.03,
+Premier League,2021-2022,17,Leeds United,38,9,11,18,42,79,-37,38,1.0,
+Premier League,2021-2022,18,Burnley,38,7,14,17,34,53,-19,35,0.92,Relegated
+Premier League,2021-2022,19,Watford,38,6,5,27,34,77,-43,23,0.61,Relegated
+Premier League,2021-2022,20,Norwich City,38,5,7,26,23,84,-61,22,0.58,Relegated
+Premier League,2022-2023,1,Manchester City,38,28,5,5,94,33,61,89,2.34,→ Champions League via league finish
+Premier League,2022-2023,2,Arsenal,38,26,6,6,88,43,45,84,2.21,→ Champions League via league finish
+Premier League,2022-2023,3,Manchester Utd,38,23,6,9,58,43,15,75,1.97,→ Champions League via league finish
+Premier League,2022-2023,4,Newcastle Utd,38,19,14,5,68,33,35,71,1.87,→ Champions League via league finish
+Premier League,2022-2023,5,Liverpool,38,19,10,9,75,47,28,67,1.76,→ Europa League via league finish
+Premier League,2022-2023,6,Brighton,38,18,8,12,72,53,19,62,1.63,→ Europa League via league finish
+Premier League,2022-2023,7,Aston Villa,38,18,7,13,51,46,5,61,1.61,→ Europa Conference League via league finish
+Premier League,2022-2023,8,Tottenham,38,18,6,14,70,63,7,60,1.58,
+Premier League,2022-2023,9,Brentford,38,15,14,9,58,46,12,59,1.55,
+Premier League,2022-2023,10,Fulham,38,15,7,16,55,53,2,52,1.37,
+Premier League,2022-2023,11,Crystal Palace,38,11,12,15,40,49,-9,45,1.18,
+Premier League,2022-2023,12,Chelsea,38,11,11,16,38,47,-9,44,1.16,
+Premier League,2022-2023,13,Wolves,38,11,8,19,31,58,-27,41,1.08,
+Premier League,2022-2023,14,West Ham,38,11,7,20,42,55,-13,40,1.05,
+Premier League,2022-2023,15,Bournemouth,38,11,6,21,37,71,-34,39,1.03,
+Premier League,2022-2023,16,Nott'ham Forest,38,9,11,18,38,68,-30,38,1.0,
+Premier League,2022-2023,17,Everton,38,8,12,18,34,57,-23,36,0.95,
+Premier League,2022-2023,18,Leicester City,38,9,7,22,51,68,-17,34,0.89,Relegated
+Premier League,2022-2023,19,Leeds United,38,7,10,21,48,78,-30,31,0.82,Relegated
+Premier League,2022-2023,20,Southampton,38,6,7,25,36,73,-37,25,0.66,Relegated
+Premier League,2023-2024,1,Manchester City,38,28,7,3,96,34,62,91,2.39,→ Champions League via league finish
+Premier League,2023-2024,2,Arsenal,38,28,5,5,91,29,62,89,2.34,→ Champions League via league finish
+Premier League,2023-2024,3,Liverpool,38,24,10,4,86,41,45,82,2.16,→ Champions League via league finish
+Premier League,2023-2024,4,Aston Villa,38,20,8,10,76,61,15,68,1.79,→ Champions League via league finish
+Premier League,2023-2024,5,Tottenham,38,20,6,12,74,61,13,66,1.74,→ Europa League via league finish
+Premier League,2023-2024,6,Chelsea,38,18,9,11,77,63,14,63,1.66,→ Europa Conference League via league finish
+Premier League,2023-2024,7,Newcastle Utd,38,18,6,14,85,62,23,60,1.58,
+Premier League,2023-2024,8,Manchester Utd,38,18,6,14,57,58,-1,60,1.58,→ Europa League via cup win
+Premier League,2023-2024,9,West Ham,38,14,10,14,60,74,-14,52,1.37,
+Premier League,2023-2024,10,Crystal Palace,38,13,10,15,57,58,-1,49,1.29,
+Premier League,2023-2024,11,Brighton,38,12,12,14,55,62,-7,48,1.26,
+Premier League,2023-2024,12,Bournemouth,38,13,9,16,54,67,-13,48,1.26,
+Premier League,2023-2024,13,Fulham,38,13,8,17,55,61,-6,47,1.24,
+Premier League,2023-2024,14,Wolves,38,13,7,18,50,65,-15,46,1.21,
+Premier League,2023-2024,15,Everton,38,13,9,16,40,51,-11,42,1.11,6-point deduction 1
+Premier League,2023-2024,16,Brentford,38,10,9,19,56,65,-9,39,1.03,
+Premier League,2023-2024,17,Nott'ham Forest,38,9,9,20,49,67,-18,32,0.84,4-point deduction 2
+Premier League,2023-2024,18,Luton Town,38,6,8,24,52,85,-33,26,0.68,Relegated
+Premier League,2023-2024,19,Burnley,38,5,9,24,41,78,-37,24,0.63,Relegated
+Premier League,2023-2024,20,Sheffield Utd,38,3,7,28,35,104,-69,16,0.42,Relegated
+La Liga,2010-2011,1,Barcelona,38,30,6,2,95,21,74,96,2.53,→ Champions League via Champions League win
+La Liga,2010-2011,2,Real Madrid,38,29,5,4,102,33,69,92,2.42,→ Champions League via league finish
+La Liga,2010-2011,3,Valencia,38,21,8,9,64,44,20,71,1.87,→ Champions League via league finish
+La Liga,2010-2011,4,Villarreal,38,18,8,12,54,44,10,62,1.63,→ Champions League via league finish
+La Liga,2010-2011,5,Sevilla,38,17,7,14,62,61,1,58,1.53,→ Europa League via league finish
+La Liga,2010-2011,6,Athletic Club,38,18,4,16,59,55,4,58,1.53,→ Europa League via league finish 1
+La Liga,2010-2011,7,Atlético Madrid,38,17,7,14,62,53,9,58,1.53,→ Europa League via league finish
+La Liga,2010-2011,8,Espanyol,38,15,4,19,46,55,-9,49,1.29,
+La Liga,2010-2011,9,Osasuna,38,13,8,17,45,46,-1,47,1.24,
+La Liga,2010-2011,10,Sporting Gijón,38,11,14,13,35,42,-7,47,1.24,
+La Liga,2010-2011,11,Málaga,38,13,7,18,54,68,-14,46,1.21,
+La Liga,2010-2011,12,Racing Sant,38,12,10,16,41,56,-15,46,1.21,
+La Liga,2010-2011,13,Zaragoza,38,12,9,17,40,53,-13,45,1.18,
+La Liga,2010-2011,14,Levante,38,12,9,17,41,52,-11,45,1.18,
+La Liga,2010-2011,15,Real Sociedad,38,14,3,21,49,66,-17,45,1.18,
+La Liga,2010-2011,16,Getafe,38,12,8,18,49,60,-11,44,1.16,
+La Liga,2010-2011,17,Mallorca,38,12,8,18,41,56,-15,44,1.16,
+La Liga,2010-2011,18,La Coruña,38,10,13,15,31,47,-16,43,1.13,Relegated
+La Liga,2010-2011,19,Hércules,38,9,8,21,36,60,-24,35,0.92,Relegated
+La Liga,2010-2011,20,Almería,38,6,12,20,36,70,-34,30,0.79,Relegated
+La Liga,2011-2012,1,Real Madrid,38,32,4,2,121,32,89,100,2.63,→ Champions League via league finish
+La Liga,2011-2012,2,Barcelona,38,28,7,3,114,29,85,91,2.39,→ Champions League via league finish
+La Liga,2011-2012,3,Valencia,38,17,10,11,59,44,15,61,1.61,→ Champions League via league finish
+La Liga,2011-2012,4,Málaga,38,17,7,14,54,53,1,58,1.53,→ Champions League via league finish
+La Liga,2011-2012,5,Atlético Madrid,38,15,11,12,53,46,7,56,1.47,→ Europa League via Europa League win
+La Liga,2011-2012,6,Levante,38,16,7,15,54,50,4,55,1.45,→ Europa League via league finish
+La Liga,2011-2012,7,Osasuna,38,13,15,10,44,61,-17,54,1.42,
+La Liga,2011-2012,8,Mallorca,38,14,10,14,42,46,-4,52,1.37,
+La Liga,2011-2012,9,Sevilla,38,13,11,14,48,47,1,50,1.32,
+La Liga,2011-2012,10,Athletic Club,38,12,13,13,49,52,-3,49,1.29,→ Europa League via cup loss 1
+La Liga,2011-2012,11,Getafe,38,12,11,15,40,51,-11,47,1.24,
+La Liga,2011-2012,12,Real Sociedad,38,12,11,15,46,52,-6,47,1.24,
+La Liga,2011-2012,13,Betis,38,13,8,17,47,56,-9,47,1.24,
+La Liga,2011-2012,14,Espanyol,38,12,10,16,46,56,-10,46,1.21,
+La Liga,2011-2012,15,Rayo Vallecano,38,13,4,21,53,73,-20,43,1.13,
+La Liga,2011-2012,16,Zaragoza,38,12,7,19,36,61,-25,43,1.13,
+La Liga,2011-2012,17,Granada,38,12,6,20,35,56,-21,42,1.11,
+La Liga,2011-2012,18,Villarreal,38,9,14,15,39,53,-14,41,1.08,Relegated
+La Liga,2011-2012,19,Sporting Gijón,38,10,7,21,42,69,-27,37,0.97,Relegated
+La Liga,2011-2012,20,Racing Sant,38,4,15,19,28,63,-35,27,0.71,Relegated
+La Liga,2012-2013,1,Barcelona,38,32,4,2,115,40,75,100,2.63,→ Champions League via league finish
+La Liga,2012-2013,2,Real Madrid,38,26,7,5,103,42,61,85,2.24,→ Champions League via league finish
+La Liga,2012-2013,3,Atlético Madrid,38,23,7,8,65,31,34,76,2.0,→ Champions League via league finish
+La Liga,2012-2013,4,Real Sociedad,38,18,12,8,70,49,21,66,1.74,→ Champions League via league finish
+La Liga,2012-2013,5,Valencia,38,19,8,11,67,54,13,65,1.71,→ Europa League via league finish 1
+La Liga,2012-2013,6,Málaga,38,16,9,13,53,50,3,57,1.5,
+La Liga,2012-2013,7,Betis,38,16,8,14,57,56,1,56,1.47,→ Europa League via league finish
+La Liga,2012-2013,8,Rayo Vallecano,38,16,5,17,50,66,-16,53,1.39,
+La Liga,2012-2013,9,Sevilla,38,14,8,16,58,54,4,50,1.32,→ Europa League via league finish
+La Liga,2012-2013,10,Getafe,38,13,8,17,43,57,-14,47,1.24,
+La Liga,2012-2013,11,Levante,38,12,10,16,40,57,-17,46,1.21,
+La Liga,2012-2013,12,Athletic Club,38,12,9,17,44,65,-21,45,1.18,
+La Liga,2012-2013,13,Espanyol,38,11,11,16,43,52,-9,44,1.16,
+La Liga,2012-2013,14,Valladolid,38,11,10,17,49,58,-9,43,1.13,
+La Liga,2012-2013,15,Granada,38,11,9,18,37,54,-17,42,1.11,
+La Liga,2012-2013,16,Osasuna,38,10,9,19,33,50,-17,39,1.03,
+La Liga,2012-2013,17,Celta Vigo,38,10,7,21,37,52,-15,37,0.97,
+La Liga,2012-2013,18,Mallorca,38,9,9,20,43,72,-29,36,0.95,Relegated
+La Liga,2012-2013,19,La Coruña,38,8,11,19,47,70,-23,35,0.92,Relegated
+La Liga,2012-2013,20,Zaragoza,38,9,7,22,37,62,-25,34,0.89,Relegated
+La Liga,2013-2014,1,Atlético Madrid,38,28,6,4,77,26,51,90,2.37,→ Champions League via league finish
+La Liga,2013-2014,2,Barcelona,38,27,6,5,100,33,67,87,2.29,→ Champions League via league finish
+La Liga,2013-2014,3,Real Madrid,38,27,6,5,104,38,66,87,2.29,→ Champions League via Champions League win
+La Liga,2013-2014,4,Athletic Club,38,20,10,8,66,39,27,70,1.84,→ Champions League via league finish
+La Liga,2013-2014,5,Sevilla,38,18,9,11,69,52,17,63,1.66,→ Europa League via Europa League win
+La Liga,2013-2014,6,Villarreal,38,17,8,13,60,44,16,59,1.55,→ Europa League via league finish
+La Liga,2013-2014,7,Real Sociedad,38,16,11,11,62,55,7,59,1.55,→ Europa League via league finish
+La Liga,2013-2014,8,Valencia,38,13,10,15,51,53,-2,49,1.29,
+La Liga,2013-2014,9,Celta Vigo,38,14,7,17,49,54,-5,49,1.29,
+La Liga,2013-2014,10,Levante,38,12,12,14,35,43,-8,48,1.26,
+La Liga,2013-2014,11,Málaga,38,12,9,17,39,46,-7,45,1.18,
+La Liga,2013-2014,12,Rayo Vallecano,38,13,4,21,46,80,-34,43,1.13,
+La Liga,2013-2014,13,Getafe,38,11,9,18,35,54,-19,42,1.11,
+La Liga,2013-2014,14,Espanyol,38,11,9,18,41,51,-10,42,1.11,
+La Liga,2013-2014,15,Granada,38,12,5,21,32,56,-24,41,1.08,
+La Liga,2013-2014,16,Elche,38,9,13,16,30,50,-20,40,1.05,
+La Liga,2013-2014,17,Almería,38,11,7,20,43,71,-28,40,1.05,
+La Liga,2013-2014,18,Osasuna,38,10,9,19,32,62,-30,39,1.03,Relegated
+La Liga,2013-2014,19,Valladolid,38,7,15,16,38,60,-22,36,0.95,Relegated
+La Liga,2013-2014,20,Betis,38,6,7,25,36,78,-42,25,0.66,Relegated
+La Liga,2014-2015,1,Barcelona,38,30,4,4,110,21,89,94,2.47,→ Champions League via Champions League win
+La Liga,2014-2015,2,Real Madrid,38,30,2,6,118,38,80,92,2.42,→ Champions League via league finish
+La Liga,2014-2015,3,Atlético Madrid,38,23,9,6,67,29,38,78,2.05,→ Champions League via league finish
+La Liga,2014-2015,4,Valencia,38,22,11,5,70,32,38,77,2.03,→ Champions League via league finish
+La Liga,2014-2015,5,Sevilla,38,23,7,8,71,45,26,76,2.0,→ Champions League via Europa League win
+La Liga,2014-2015,6,Villarreal,38,16,12,10,48,37,11,60,1.58,→ Europa League via league finish 1
+La Liga,2014-2015,7,Athletic Club,38,15,10,13,42,41,1,55,1.45,→ Europa League via league finish
+La Liga,2014-2015,8,Celta Vigo,38,13,12,13,47,44,3,51,1.34,
+La Liga,2014-2015,9,Málaga,38,14,8,16,42,48,-6,50,1.32,
+La Liga,2014-2015,10,Espanyol,38,13,10,15,47,51,-4,49,1.29,
+La Liga,2014-2015,11,Rayo Vallecano,38,15,4,19,46,68,-22,49,1.29,
+La Liga,2014-2015,12,Real Sociedad,38,11,13,14,44,51,-7,46,1.21,
+La Liga,2014-2015,13,Elche,38,11,8,19,35,62,-27,41,1.08,Relegated 2
+La Liga,2014-2015,14,Levante,38,9,10,19,34,67,-33,37,0.97,
+La Liga,2014-2015,15,Getafe,38,10,7,21,33,64,-31,37,0.97,
+La Liga,2014-2015,16,La Coruña,38,7,14,17,35,60,-25,35,0.92,
+La Liga,2014-2015,17,Granada,38,7,14,17,29,64,-35,35,0.92,
+La Liga,2014-2015,18,Eibar,38,9,8,21,34,55,-21,35,0.92,Retained 3
+La Liga,2014-2015,19,Almería,38,8,8,22,35,64,-29,29,0.76,"3-point deduction 4, Relegated"
+La Liga,2014-2015,20,Córdoba,38,3,11,24,22,68,-46,20,0.53,Relegated
+La Liga,2015-2016,1,Barcelona,38,29,4,5,112,29,83,91,2.39,→ Champions League via league finish
+La Liga,2015-2016,2,Real Madrid,38,28,6,4,110,34,76,90,2.37,→ Champions League via Champions League win
+La Liga,2015-2016,3,Atlético Madrid,38,28,4,6,63,18,45,88,2.32,→ Champions League via league finish
+La Liga,2015-2016,4,Villarreal,38,18,10,10,44,35,9,64,1.68,→ Champions League via league finish
+La Liga,2015-2016,5,Athletic Club,38,18,8,12,58,45,13,62,1.63,→ Europa League via league finish
+La Liga,2015-2016,6,Celta Vigo,38,17,9,12,51,59,-8,60,1.58,→ Europa League via league finish 1
+La Liga,2015-2016,7,Sevilla,38,14,10,14,51,50,1,52,1.37,→ Champions League via Europa League win
+La Liga,2015-2016,8,Málaga,38,12,12,14,38,35,3,48,1.26,
+La Liga,2015-2016,9,Real Sociedad,38,13,9,16,45,48,-3,48,1.26,
+La Liga,2015-2016,10,Betis,38,11,12,15,34,52,-18,45,1.18,
+La Liga,2015-2016,11,Las Palmas,38,12,8,18,45,53,-8,44,1.16,
+La Liga,2015-2016,12,Valencia,38,11,11,16,46,48,-2,44,1.16,
+La Liga,2015-2016,13,Espanyol,38,12,7,19,40,74,-34,43,1.13,
+La Liga,2015-2016,14,Eibar,38,11,10,17,49,61,-12,43,1.13,
+La Liga,2015-2016,15,La Coruña,38,8,18,12,45,61,-16,42,1.11,
+La Liga,2015-2016,16,Granada,38,10,9,19,46,69,-23,39,1.03,
+La Liga,2015-2016,17,Sporting Gijón,38,10,9,19,40,62,-22,39,1.03,
+La Liga,2015-2016,18,Rayo Vallecano,38,9,11,18,52,73,-21,38,1.0,Relegated
+La Liga,2015-2016,19,Getafe,38,9,9,20,37,67,-30,36,0.95,Relegated
+La Liga,2015-2016,20,Levante,38,8,8,22,37,70,-33,32,0.84,Relegated
+La Liga,2016-2017,1,Real Madrid,38,29,6,3,106,41,65,93,2.45,→ Champions League via Champions League win
+La Liga,2016-2017,2,Barcelona,38,28,6,4,116,37,79,90,2.37,→ Champions League via league finish
+La Liga,2016-2017,3,Atlético Madrid,38,23,9,6,70,27,43,78,2.05,→ Champions League via league finish
+La Liga,2016-2017,4,Sevilla,38,21,9,8,69,49,20,72,1.89,→ Champions League via league finish
+La Liga,2016-2017,5,Villarreal,38,19,10,9,56,33,23,67,1.76,→ Europa League via league finish
+La Liga,2016-2017,6,Real Sociedad,38,19,7,12,59,53,6,64,1.68,→ Europa League via league finish 1
+La Liga,2016-2017,7,Athletic Club,38,19,6,13,53,43,10,63,1.66,→ Europa League via league finish
+La Liga,2016-2017,8,Espanyol,38,15,11,12,49,50,-1,56,1.47,
+La Liga,2016-2017,9,Alavés,38,14,13,11,41,43,-2,55,1.45,
+La Liga,2016-2017,10,Eibar,38,15,9,14,56,51,5,54,1.42,
+La Liga,2016-2017,11,Málaga,38,12,10,16,49,55,-6,46,1.21,
+La Liga,2016-2017,12,Valencia,38,13,7,18,56,65,-9,46,1.21,
+La Liga,2016-2017,13,Celta Vigo,38,13,6,19,53,69,-16,45,1.18,
+La Liga,2016-2017,14,Las Palmas,38,10,9,19,53,74,-21,39,1.03,
+La Liga,2016-2017,15,Betis,38,10,9,19,41,64,-23,39,1.03,
+La Liga,2016-2017,16,La Coruña,38,8,12,18,43,61,-18,36,0.95,
+La Liga,2016-2017,17,Leganés,38,8,11,19,36,55,-19,35,0.92,
+La Liga,2016-2017,18,Sporting Gijón,38,7,10,21,42,72,-30,31,0.82,Relegated
+La Liga,2016-2017,19,Osasuna,38,4,10,24,40,94,-54,22,0.58,Relegated
+La Liga,2016-2017,20,Granada,38,4,8,26,30,82,-52,20,0.53,Relegated
+La Liga,2017-2018,1,Barcelona,38,28,9,1,99,29,70,93,2.45,→ Champions League via league finish
+La Liga,2017-2018,2,Atlético Madrid,38,23,10,5,58,22,36,79,2.08,→ Champions League via Europa League win
+La Liga,2017-2018,3,Real Madrid,38,22,10,6,94,44,50,76,2.0,→ Champions League via Champions League win
+La Liga,2017-2018,4,Valencia,38,22,7,9,65,38,27,73,1.92,→ Champions League via league finish
+La Liga,2017-2018,5,Villarreal,38,18,7,13,57,50,7,61,1.61,→ Europa League via league finish
+La Liga,2017-2018,6,Betis,38,18,6,14,60,61,-1,60,1.58,→ Europa League via league finish 1
+La Liga,2017-2018,7,Sevilla,38,17,7,14,49,58,-9,58,1.53,→ Europa League via league finish
+La Liga,2017-2018,8,Getafe,38,15,10,13,42,33,9,55,1.45,
+La Liga,2017-2018,9,Eibar,38,14,9,15,44,50,-6,51,1.34,
+La Liga,2017-2018,10,Girona,38,14,9,15,50,59,-9,51,1.34,
+La Liga,2017-2018,11,Espanyol,38,12,13,13,36,42,-6,49,1.29,
+La Liga,2017-2018,12,Real Sociedad,38,14,7,17,66,59,7,49,1.29,
+La Liga,2017-2018,13,Celta Vigo,38,13,10,15,59,60,-1,49,1.29,
+La Liga,2017-2018,14,Alavés,38,15,2,21,40,50,-10,47,1.24,
+La Liga,2017-2018,15,Levante,38,11,13,14,44,58,-14,46,1.21,
+La Liga,2017-2018,16,Athletic Club,38,10,13,15,41,49,-8,43,1.13,
+La Liga,2017-2018,17,Leganés,38,12,7,19,34,51,-17,43,1.13,
+La Liga,2017-2018,18,La Coruña,38,6,11,21,38,76,-38,29,0.76,Relegated
+La Liga,2017-2018,19,Las Palmas,38,5,7,26,24,74,-50,22,0.58,Relegated
+La Liga,2017-2018,20,Málaga,38,5,5,28,24,61,-37,20,0.53,Relegated
+La Liga,2018-2019,1,Barcelona,38,26,9,3,90,36,54,87,2.29,→ Champions League via league finish
+La Liga,2018-2019,2,Atlético Madrid,38,22,10,6,55,29,26,76,2.0,→ Champions League via league finish
+La Liga,2018-2019,3,Real Madrid,38,21,5,12,63,46,17,68,1.79,→ Champions League via league finish
+La Liga,2018-2019,4,Valencia,38,15,16,7,51,35,16,61,1.61,→ Champions League via league finish
+La Liga,2018-2019,5,Getafe,38,15,14,9,48,35,13,59,1.55,→ Europa League via league finish
+La Liga,2018-2019,6,Sevilla,38,17,8,13,62,47,15,59,1.55,→ Europa League via league finish 1
+La Liga,2018-2019,7,Espanyol,38,14,11,13,48,50,-2,53,1.39,→ Europa League via league finish
+La Liga,2018-2019,8,Athletic Club,38,13,14,11,41,45,-4,53,1.39,
+La Liga,2018-2019,9,Real Sociedad,38,13,11,14,45,46,-1,50,1.32,
+La Liga,2018-2019,10,Betis,38,14,8,16,44,52,-8,50,1.32,
+La Liga,2018-2019,11,Alavés,38,13,11,14,39,50,-11,50,1.32,
+La Liga,2018-2019,12,Eibar,38,11,14,13,46,50,-4,47,1.24,
+La Liga,2018-2019,13,Leganés,38,11,12,15,37,43,-6,45,1.18,
+La Liga,2018-2019,14,Villarreal,38,10,14,14,49,52,-3,44,1.16,
+La Liga,2018-2019,15,Levante,38,11,11,16,59,66,-7,44,1.16,
+La Liga,2018-2019,16,Valladolid,38,10,11,17,32,51,-19,41,1.08,
+La Liga,2018-2019,17,Celta Vigo,38,10,11,17,53,62,-9,41,1.08,
+La Liga,2018-2019,18,Girona,38,9,10,19,37,53,-16,37,0.97,Relegated
+La Liga,2018-2019,19,Huesca,38,7,12,19,43,65,-22,33,0.87,Relegated
+La Liga,2018-2019,20,Rayo Vallecano,38,8,8,22,41,70,-29,32,0.84,Relegated
+La Liga,2019-2020,1,Real Madrid,38,26,9,3,70,25,45,87,2.29,→ Champions League via league finish
+La Liga,2019-2020,2,Barcelona,38,25,7,6,86,38,48,82,2.16,→ Champions League via league finish
+La Liga,2019-2020,3,Atlético Madrid,38,18,16,4,51,27,24,70,1.84,→ Champions League via league finish
+La Liga,2019-2020,4,Sevilla,38,19,13,6,54,34,20,70,1.84,→ Champions League via league finish
+La Liga,2019-2020,5,Villarreal,38,18,6,14,63,49,14,60,1.58,→ Europa League via league finish 1
+La Liga,2019-2020,6,Real Sociedad,38,16,8,14,56,48,8,56,1.47,→ Europa League via league finish
+La Liga,2019-2020,7,Granada,38,16,8,14,52,45,7,56,1.47,→ Europa League via league finish
+La Liga,2019-2020,8,Getafe,38,14,12,12,43,37,6,54,1.42,
+La Liga,2019-2020,9,Valencia,38,14,11,13,46,53,-7,53,1.39,
+La Liga,2019-2020,10,Osasuna,38,13,13,12,46,54,-8,52,1.37,
+La Liga,2019-2020,11,Athletic Club,38,13,12,13,41,38,3,51,1.34,
+La Liga,2019-2020,12,Levante,38,14,7,17,47,53,-6,49,1.29,
+La Liga,2019-2020,13,Valladolid,38,9,15,14,32,43,-11,42,1.11,
+La Liga,2019-2020,14,Eibar,38,11,9,18,39,56,-17,42,1.11,
+La Liga,2019-2020,15,Betis,38,10,11,17,48,60,-12,41,1.08,
+La Liga,2019-2020,16,Alavés,38,10,9,19,34,59,-25,39,1.03,
+La Liga,2019-2020,17,Celta Vigo,38,7,16,15,37,49,-12,37,0.97,
+La Liga,2019-2020,18,Leganés,38,8,12,18,30,51,-21,36,0.95,Relegated
+La Liga,2019-2020,19,Mallorca,38,9,6,23,40,65,-25,33,0.87,Relegated
+La Liga,2019-2020,20,Espanyol,38,5,10,23,27,58,-31,25,0.66,Relegated
+La Liga,2020-2021,1,Atlético Madrid,38,26,8,4,67,25,42,86,2.26,→ Champions League via league finish
+La Liga,2020-2021,2,Real Madrid,38,25,9,4,67,28,39,84,2.21,→ Champions League via league finish
+La Liga,2020-2021,3,Barcelona,38,24,7,7,85,38,47,79,2.08,→ Champions League via league finish
+La Liga,2020-2021,4,Sevilla,38,24,5,9,53,33,20,77,2.03,→ Champions League via league finish
+La Liga,2020-2021,5,Real Sociedad,38,17,11,10,59,38,21,62,1.63,→ Europa League via league finish
+La Liga,2020-2021,6,Betis,38,17,10,11,50,50,0,61,1.61,→ Europa League via league finish 1
+La Liga,2020-2021,7,Villarreal,38,15,13,10,60,44,16,58,1.53,
+La Liga,2020-2021,8,Celta Vigo,38,14,11,13,55,57,-2,53,1.39,
+La Liga,2020-2021,9,Granada,38,13,7,18,47,65,-18,46,1.21,
+La Liga,2020-2021,10,Athletic Club,38,11,13,14,46,42,4,46,1.21,
+La Liga,2020-2021,11,Osasuna,38,11,11,16,37,48,-11,44,1.16,
+La Liga,2020-2021,12,Cádiz,38,11,11,16,36,58,-22,44,1.16,
+La Liga,2020-2021,13,Valencia,38,10,13,15,50,53,-3,43,1.13,
+La Liga,2020-2021,14,Levante,38,9,14,15,46,57,-11,41,1.08,
+La Liga,2020-2021,15,Getafe,38,9,11,18,28,43,-15,38,1.0,
+La Liga,2020-2021,16,Alavés,38,9,11,18,36,57,-21,38,1.0,
+La Liga,2020-2021,17,Elche,38,8,12,18,34,55,-21,36,0.95,
+La Liga,2020-2021,18,Huesca,38,7,13,18,34,53,-19,34,0.89,Relegated
+La Liga,2020-2021,19,Valladolid,38,5,16,17,34,57,-23,31,0.82,Relegated
+La Liga,2020-2021,20,Eibar,38,6,12,20,29,52,-23,30,0.79,Relegated
+La Liga,2021-2022,1,Real Madrid,38,26,8,4,80,31,49,86,2.26,→ Champions League via league finish
+La Liga,2021-2022,2,Barcelona,38,21,10,7,68,38,30,73,1.92,→ Champions League via league finish
+La Liga,2021-2022,3,Atlético Madrid,38,21,8,9,65,43,22,71,1.87,→ Champions League via league finish
+La Liga,2021-2022,4,Sevilla,38,18,16,4,53,30,23,70,1.84,→ Champions League via league finish
+La Liga,2021-2022,5,Betis,38,19,8,11,62,40,22,65,1.71,→ Europa League via cup win
+La Liga,2021-2022,6,Real Sociedad,38,17,11,10,40,37,3,62,1.63,→ Europa League via league finish
+La Liga,2021-2022,7,Villarreal,38,16,11,11,63,37,26,59,1.55,→ Europa Conference League via league finish
+La Liga,2021-2022,8,Athletic Club,38,14,13,11,43,36,7,55,1.45,
+La Liga,2021-2022,9,Valencia,38,11,15,12,48,53,-5,48,1.26,
+La Liga,2021-2022,10,Osasuna,38,12,11,15,37,51,-14,47,1.24,
+La Liga,2021-2022,11,Celta Vigo,38,12,10,16,43,43,0,46,1.21,
+La Liga,2021-2022,12,Rayo Vallecano,38,11,9,18,39,50,-11,42,1.11,
+La Liga,2021-2022,13,Elche,38,11,9,18,40,52,-12,42,1.11,
+La Liga,2021-2022,14,Espanyol,38,10,12,16,40,53,-13,42,1.11,
+La Liga,2021-2022,15,Getafe,38,8,15,15,33,41,-8,39,1.03,
+La Liga,2021-2022,16,Mallorca,38,10,9,19,36,63,-27,39,1.03,
+La Liga,2021-2022,17,Cádiz,38,8,15,15,35,51,-16,39,1.03,
+La Liga,2021-2022,18,Granada,38,8,14,16,44,61,-17,38,1.0,Relegated
+La Liga,2021-2022,19,Levante,38,8,11,19,51,76,-25,35,0.92,Relegated
+La Liga,2021-2022,20,Alavés,38,8,7,23,31,65,-34,31,0.82,Relegated
+La Liga,2022-2023,1,Barcelona,38,28,4,6,70,20,50,88,2.32,→ Champions League via league finish
+La Liga,2022-2023,2,Real Madrid,38,24,6,8,75,36,39,78,2.05,→ Champions League via league finish
+La Liga,2022-2023,3,Atlético Madrid,38,23,8,7,70,33,37,77,2.03,→ Champions League via league finish
+La Liga,2022-2023,4,Real Sociedad,38,21,8,9,51,35,16,71,1.87,→ Champions League via league finish
+La Liga,2022-2023,5,Villarreal,38,19,7,12,59,40,19,64,1.68,→ Europa League via league finish
+La Liga,2022-2023,6,Betis,38,17,9,12,46,41,5,60,1.58,→ Europa League via league finish
+La Liga,2022-2023,7,Osasuna,38,15,8,15,37,42,-5,53,1.39,→ Europa Conference League via league finish
+La Liga,2022-2023,8,Athletic Club,38,14,9,15,47,43,4,51,1.34,
+La Liga,2022-2023,9,Mallorca,38,14,8,16,37,43,-6,50,1.32,
+La Liga,2022-2023,10,Girona,38,13,10,15,58,55,3,49,1.29,
+La Liga,2022-2023,11,Rayo Vallecano,38,13,10,15,45,53,-8,49,1.29,
+La Liga,2022-2023,12,Sevilla,38,13,10,15,47,54,-7,49,1.29,
+La Liga,2022-2023,13,Celta Vigo,38,11,10,17,43,53,-10,43,1.13,
+La Liga,2022-2023,14,Cádiz,38,10,12,16,30,53,-23,42,1.11,
+La Liga,2022-2023,15,Getafe,38,10,12,16,34,45,-11,42,1.11,
+La Liga,2022-2023,16,Valencia,38,11,9,18,42,45,-3,42,1.11,
+La Liga,2022-2023,17,Almería,38,11,8,19,49,65,-16,41,1.08,
+La Liga,2022-2023,18,Valladolid,38,11,7,20,33,63,-30,40,1.05,Relegated
+La Liga,2022-2023,19,Espanyol,38,8,13,17,52,69,-17,37,0.97,Relegated
+La Liga,2022-2023,20,Elche,38,5,10,23,30,67,-37,25,0.66,Relegated
+La Liga,2023-2024,1,Real Madrid,38,29,8,1,87,26,61,95,2.5,→ Champions League via league finish
+La Liga,2023-2024,2,Barcelona,38,26,7,5,79,44,35,85,2.24,→ Champions League via league finish
+La Liga,2023-2024,3,Girona,38,25,6,7,85,46,39,81,2.13,→ Champions League via league finish
+La Liga,2023-2024,4,Atlético Madrid,38,24,4,10,70,43,27,76,2.0,→ Champions League via league finish
+La Liga,2023-2024,5,Athletic Club,38,19,11,8,61,37,24,68,1.79,→ Europa League via cup win
+La Liga,2023-2024,6,Real Sociedad,38,16,12,10,51,39,12,60,1.58,→ Europa League via league finish
+La Liga,2023-2024,7,Betis,38,14,15,9,48,45,3,57,1.5,→ Europa Conference League via league finish
+La Liga,2023-2024,8,Villarreal,38,14,11,13,65,65,0,53,1.39,
+La Liga,2023-2024,9,Valencia,38,13,10,15,40,45,-5,49,1.29,
+La Liga,2023-2024,10,Alavés,38,12,10,16,36,46,-10,46,1.21,
+La Liga,2023-2024,11,Osasuna,38,12,9,17,45,56,-11,45,1.18,
+La Liga,2023-2024,12,Getafe,38,10,13,15,42,54,-12,43,1.13,
+La Liga,2023-2024,13,Celta Vigo,38,10,11,17,46,57,-11,41,1.08,
+La Liga,2023-2024,14,Sevilla,38,10,11,17,48,54,-6,41,1.08,
+La Liga,2023-2024,15,Mallorca,38,8,16,14,33,44,-11,40,1.05,
+La Liga,2023-2024,16,Las Palmas,38,10,10,18,33,47,-14,40,1.05,
+La Liga,2023-2024,17,Rayo Vallecano,38,8,14,16,29,48,-19,38,1.0,
+La Liga,2023-2024,18,Cádiz,38,6,15,17,26,55,-29,33,0.87,Relegated
+La Liga,2023-2024,19,Almería,38,3,12,23,43,75,-32,21,0.55,Relegated
+La Liga,2023-2024,20,Granada,38,4,9,25,38,79,-41,21,0.55,Relegated
+Bundesliga,2010-2011,1,Dortmund,34,23,6,5,67,22,45,75,2.21,→ Champions League via league finish
+Bundesliga,2010-2011,2,Leverkusen,34,20,8,6,64,44,20,68,2.0,→ Champions League via league finish
+Bundesliga,2010-2011,3,Bayern Munich,34,19,8,7,81,40,41,65,1.91,→ Champions League via league finish
+Bundesliga,2010-2011,4,Hannover 96,34,19,3,12,49,45,4,60,1.76,→ Europa League via league finish
+Bundesliga,2010-2011,5,Mainz 05,34,18,4,12,52,39,13,58,1.71,→ Europa League via league finish
+Bundesliga,2010-2011,6,Nürnberg,34,13,8,13,47,45,2,47,1.38,
+Bundesliga,2010-2011,7,Kaiserslautern,34,13,7,14,48,51,-3,46,1.35,
+Bundesliga,2010-2011,8,Hamburger SV,34,12,9,13,46,52,-6,45,1.32,
+Bundesliga,2010-2011,9,Freiburg,34,13,5,16,41,50,-9,44,1.29,
+Bundesliga,2010-2011,10,Köln,34,13,5,16,47,62,-15,44,1.29,
+Bundesliga,2010-2011,11,Hoffenheim,34,11,10,13,50,50,0,43,1.26,
+Bundesliga,2010-2011,12,Stuttgart,34,12,6,16,60,59,1,42,1.24,
+Bundesliga,2010-2011,13,Werder Bremen,34,10,11,13,47,61,-14,41,1.21,
+Bundesliga,2010-2011,14,Schalke 04,34,11,7,16,38,44,-6,40,1.18,
+Bundesliga,2010-2011,15,Wolfsburg,34,9,11,14,43,48,-5,38,1.12,
+Bundesliga,2010-2011,16,Gladbach,34,10,6,18,48,65,-17,36,1.06,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2010-2011,17,Eint Frankfurt,34,9,7,18,31,49,-18,34,1.0,Relegated
+Bundesliga,2010-2011,18,St. Pauli,34,8,5,21,35,68,-33,29,0.85,Relegated
+Bundesliga,2011-2012,1,Dortmund,34,25,6,3,80,25,55,81,2.38,→ Champions League via league finish
+Bundesliga,2011-2012,2,Bayern Munich,34,23,4,7,77,22,55,73,2.15,→ Champions League via league finish
+Bundesliga,2011-2012,3,Schalke 04,34,20,4,10,74,44,30,64,1.88,→ Champions League via league finish
+Bundesliga,2011-2012,4,Gladbach,34,17,9,8,49,24,25,60,1.76,→ Champions League via league finish
+Bundesliga,2011-2012,5,Leverkusen,34,15,9,10,52,44,8,54,1.59,→ Europa League via league finish 1
+Bundesliga,2011-2012,6,Stuttgart,34,15,8,11,63,46,17,53,1.56,→ Europa League via league finish
+Bundesliga,2011-2012,7,Hannover 96,34,12,12,10,41,45,-4,48,1.41,→ Europa League via league finish
+Bundesliga,2011-2012,8,Wolfsburg,34,13,5,16,47,60,-13,44,1.29,
+Bundesliga,2011-2012,9,Werder Bremen,34,11,9,14,49,58,-9,42,1.24,
+Bundesliga,2011-2012,10,Nürnberg,34,12,6,16,38,49,-11,42,1.24,
+Bundesliga,2011-2012,11,Hoffenheim,34,10,11,13,41,47,-6,41,1.21,
+Bundesliga,2011-2012,12,Freiburg,34,10,10,14,45,61,-16,40,1.18,
+Bundesliga,2011-2012,13,Mainz 05,34,9,12,13,47,51,-4,39,1.15,
+Bundesliga,2011-2012,14,Augsburg,34,8,14,12,36,49,-13,38,1.12,
+Bundesliga,2011-2012,15,Hamburger SV,34,8,12,14,35,57,-22,36,1.06,
+Bundesliga,2011-2012,16,Hertha BSC,34,7,10,17,38,64,-26,31,0.91,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2011-2012,17,Köln,34,8,6,20,39,75,-36,30,0.88,Relegated
+Bundesliga,2011-2012,18,Kaiserslautern,34,4,11,19,24,54,-30,23,0.68,Relegated
+Bundesliga,2012-2013,1,Bayern Munich,34,29,4,1,98,18,80,91,2.68,→ Champions League via Champions League win
+Bundesliga,2012-2013,2,Dortmund,34,19,9,6,81,42,39,66,1.94,→ Champions League via league finish
+Bundesliga,2012-2013,3,Leverkusen,34,19,8,7,65,39,26,65,1.91,→ Champions League via league finish
+Bundesliga,2012-2013,4,Schalke 04,34,16,7,11,58,50,8,55,1.62,→ Champions League via league finish
+Bundesliga,2012-2013,5,Freiburg,34,14,9,11,45,40,5,51,1.5,→ Europa League via league finish 1
+Bundesliga,2012-2013,6,Eint Frankfurt,34,14,9,11,49,46,3,51,1.5,→ Europa League via league finish
+Bundesliga,2012-2013,7,Hamburger SV,34,14,6,14,42,53,-11,48,1.41,
+Bundesliga,2012-2013,8,Gladbach,34,12,11,11,45,49,-4,47,1.38,
+Bundesliga,2012-2013,9,Hannover 96,34,13,6,15,60,62,-2,45,1.32,
+Bundesliga,2012-2013,10,Nürnberg,34,11,11,12,39,47,-8,44,1.29,
+Bundesliga,2012-2013,11,Wolfsburg,34,10,13,11,47,52,-5,43,1.26,
+Bundesliga,2012-2013,12,Stuttgart,34,12,7,15,37,55,-18,43,1.26,→ Europa League via cup loss 2
+Bundesliga,2012-2013,13,Mainz 05,34,10,12,12,42,44,-2,42,1.24,
+Bundesliga,2012-2013,14,Werder Bremen,34,8,10,16,50,66,-16,34,1.0,
+Bundesliga,2012-2013,15,Augsburg,34,8,9,17,33,51,-18,33,0.97,
+Bundesliga,2012-2013,16,Hoffenheim,34,8,7,19,42,67,-25,31,0.91,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2012-2013,17,Düsseldorf,34,7,9,18,39,57,-18,30,0.88,Relegated
+Bundesliga,2012-2013,18,Greuther Fürth,34,4,9,21,26,60,-34,21,0.62,Relegated
+Bundesliga,2013-2014,1,Bayern Munich,34,29,3,2,94,23,71,90,2.65,→ Champions League via league finish
+Bundesliga,2013-2014,2,Dortmund,34,22,5,7,80,38,42,71,2.09,→ Champions League via league finish
+Bundesliga,2013-2014,3,Schalke 04,34,19,7,8,63,43,20,64,1.88,→ Champions League via league finish
+Bundesliga,2013-2014,4,Leverkusen,34,19,4,11,60,41,19,61,1.79,→ Champions League via league finish
+Bundesliga,2013-2014,5,Wolfsburg,34,18,6,10,63,50,13,60,1.76,→ Europa League via league finish 1
+Bundesliga,2013-2014,6,Gladbach,34,16,7,11,59,43,16,55,1.62,→ Europa League via league finish
+Bundesliga,2013-2014,7,Mainz 05,34,16,5,13,52,54,-2,53,1.56,→ Europa League via league finish
+Bundesliga,2013-2014,8,Augsburg,34,15,7,12,47,47,0,52,1.53,
+Bundesliga,2013-2014,9,Hoffenheim,34,11,11,12,72,70,2,44,1.29,
+Bundesliga,2013-2014,10,Hannover 96,34,12,6,16,46,59,-13,42,1.24,
+Bundesliga,2013-2014,11,Hertha BSC,34,11,8,15,40,48,-8,41,1.21,
+Bundesliga,2013-2014,12,Werder Bremen,34,10,9,15,42,66,-24,39,1.15,
+Bundesliga,2013-2014,13,Eint Frankfurt,34,9,9,16,40,57,-17,36,1.06,
+Bundesliga,2013-2014,14,Freiburg,34,9,9,16,43,61,-18,36,1.06,
+Bundesliga,2013-2014,15,Stuttgart,34,8,8,18,49,62,-13,32,0.94,
+Bundesliga,2013-2014,16,Hamburger SV,34,7,6,21,51,75,-24,27,0.79,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2013-2014,17,Nürnberg,34,5,11,18,37,70,-33,26,0.76,Relegated
+Bundesliga,2013-2014,18,BTSV,34,6,7,21,29,60,-31,25,0.74,Relegated
+Bundesliga,2014-2015,1,Bayern Munich,34,25,4,5,80,18,62,79,2.32,→ Champions League via league finish
+Bundesliga,2014-2015,2,Wolfsburg,34,20,9,5,72,38,34,69,2.03,→ Champions League via league finish
+Bundesliga,2014-2015,3,Gladbach,34,19,9,6,53,26,27,66,1.94,→ Champions League via league finish
+Bundesliga,2014-2015,4,Leverkusen,34,17,10,7,62,37,25,61,1.79,→ Champions League via league finish
+Bundesliga,2014-2015,5,Augsburg,34,15,4,15,43,43,0,49,1.44,→ Europa League via league finish
+Bundesliga,2014-2015,6,Schalke 04,34,13,9,12,42,40,2,48,1.41,→ Europa League via league finish 1
+Bundesliga,2014-2015,7,Dortmund,34,13,7,14,47,42,5,46,1.35,→ Europa League via league finish
+Bundesliga,2014-2015,8,Hoffenheim,34,12,8,14,49,55,-6,44,1.29,
+Bundesliga,2014-2015,9,Eint Frankfurt,34,11,10,13,56,62,-6,43,1.26,
+Bundesliga,2014-2015,10,Werder Bremen,34,11,10,13,50,65,-15,43,1.26,
+Bundesliga,2014-2015,11,Mainz 05,34,9,13,12,45,47,-2,40,1.18,
+Bundesliga,2014-2015,12,Köln,34,9,13,12,34,40,-6,40,1.18,
+Bundesliga,2014-2015,13,Hannover 96,34,9,10,15,40,56,-16,37,1.09,
+Bundesliga,2014-2015,14,Stuttgart,34,9,9,16,42,60,-18,36,1.06,
+Bundesliga,2014-2015,15,Hertha BSC,34,9,8,17,36,52,-16,35,1.03,
+Bundesliga,2014-2015,16,Hamburger SV,34,9,8,17,25,50,-25,35,1.03,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2014-2015,17,Freiburg,34,7,13,14,36,47,-11,34,1.0,Relegated
+Bundesliga,2014-2015,18,Paderborn 07,34,7,10,17,31,65,-34,31,0.91,Relegated
+Bundesliga,2015-2016,1,Bayern Munich,34,28,4,2,80,17,63,88,2.59,→ Champions League via league finish
+Bundesliga,2015-2016,2,Dortmund,34,24,6,4,82,34,48,78,2.29,→ Champions League via league finish
+Bundesliga,2015-2016,3,Leverkusen,34,18,6,10,56,40,16,60,1.76,→ Champions League via league finish
+Bundesliga,2015-2016,4,Gladbach,34,17,4,13,67,50,17,55,1.62,→ Champions League via league finish
+Bundesliga,2015-2016,5,Schalke 04,34,15,7,12,51,49,2,52,1.53,→ Europa League via league finish
+Bundesliga,2015-2016,6,Mainz 05,34,14,8,12,46,42,4,50,1.47,→ Europa League via league finish 1
+Bundesliga,2015-2016,7,Hertha BSC,34,14,8,12,42,42,0,50,1.47,→ Europa League via league finish
+Bundesliga,2015-2016,8,Wolfsburg,34,12,9,13,47,49,-2,45,1.32,
+Bundesliga,2015-2016,9,Köln,34,10,13,11,38,42,-4,43,1.26,
+Bundesliga,2015-2016,10,Hamburger SV,34,11,8,15,40,46,-6,41,1.21,
+Bundesliga,2015-2016,11,Ingolstadt 04,34,10,10,14,33,42,-9,40,1.18,
+Bundesliga,2015-2016,12,Augsburg,34,9,11,14,42,52,-10,38,1.12,
+Bundesliga,2015-2016,13,Werder Bremen,34,10,8,16,50,65,-15,38,1.12,
+Bundesliga,2015-2016,14,Darmstadt 98,34,9,11,14,38,53,-15,38,1.12,
+Bundesliga,2015-2016,15,Hoffenheim,34,9,10,15,39,54,-15,37,1.09,
+Bundesliga,2015-2016,16,Eint Frankfurt,34,9,9,16,34,52,-18,36,1.06,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2015-2016,17,Stuttgart,34,9,6,19,50,75,-25,33,0.97,Relegated
+Bundesliga,2015-2016,18,Hannover 96,34,7,4,23,31,62,-31,25,0.74,Relegated
+Bundesliga,2016-2017,1,Bayern Munich,34,25,7,2,89,22,67,82,2.41,→ Champions League via league finish
+Bundesliga,2016-2017,2,RB Leipzig,34,20,7,7,66,39,27,67,1.97,→ Champions League via league finish
+Bundesliga,2016-2017,3,Dortmund,34,18,10,6,72,40,32,64,1.88,→ Champions League via league finish
+Bundesliga,2016-2017,4,Hoffenheim,34,16,14,4,64,37,27,62,1.82,→ Champions League via league finish
+Bundesliga,2016-2017,5,Köln,34,12,13,9,51,42,9,49,1.44,→ Europa League via league finish
+Bundesliga,2016-2017,6,Hertha BSC,34,15,4,15,43,47,-4,49,1.44,→ Europa League via league finish 1
+Bundesliga,2016-2017,7,Freiburg,34,14,6,14,42,60,-18,48,1.41,→ Europa League via league finish
+Bundesliga,2016-2017,8,Werder Bremen,34,13,6,15,61,64,-3,45,1.32,
+Bundesliga,2016-2017,9,Gladbach,34,12,9,13,45,49,-4,45,1.32,
+Bundesliga,2016-2017,10,Schalke 04,34,11,10,13,45,40,5,43,1.26,
+Bundesliga,2016-2017,11,Eint Frankfurt,34,11,9,14,36,43,-7,42,1.24,
+Bundesliga,2016-2017,12,Leverkusen,34,11,8,15,53,55,-2,41,1.21,
+Bundesliga,2016-2017,13,Augsburg,34,9,11,14,35,51,-16,38,1.12,
+Bundesliga,2016-2017,14,Hamburger SV,34,10,8,16,33,61,-28,38,1.12,
+Bundesliga,2016-2017,15,Mainz 05,34,10,7,17,44,55,-11,37,1.09,
+Bundesliga,2016-2017,16,Wolfsburg,34,10,7,17,34,52,-18,37,1.09,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2016-2017,17,Ingolstadt 04,34,8,8,18,36,57,-21,32,0.94,Relegated
+Bundesliga,2016-2017,18,Darmstadt 98,34,7,4,23,28,63,-35,25,0.74,Relegated
+Bundesliga,2017-2018,1,Bayern Munich,34,27,3,4,92,28,64,84,2.47,→ Champions League via league finish
+Bundesliga,2017-2018,2,Schalke 04,34,18,9,7,53,37,16,63,1.85,→ Champions League via league finish
+Bundesliga,2017-2018,3,Hoffenheim,34,15,10,9,66,48,18,55,1.62,→ Champions League via league finish
+Bundesliga,2017-2018,4,Dortmund,34,15,10,9,64,47,17,55,1.62,→ Champions League via league finish
+Bundesliga,2017-2018,5,Leverkusen,34,15,10,9,58,44,14,55,1.62,→ Europa League via league finish
+Bundesliga,2017-2018,6,RB Leipzig,34,15,8,11,57,53,4,53,1.56,→ Europa League via league finish
+Bundesliga,2017-2018,7,Stuttgart,34,15,6,13,36,36,0,51,1.5,
+Bundesliga,2017-2018,8,Eint Frankfurt,34,14,7,13,45,45,0,49,1.44,
+Bundesliga,2017-2018,9,Gladbach,34,13,8,13,47,52,-5,47,1.38,
+Bundesliga,2017-2018,10,Hertha BSC,34,10,13,11,43,46,-3,43,1.26,
+Bundesliga,2017-2018,11,Werder Bremen,34,10,12,12,37,40,-3,42,1.24,
+Bundesliga,2017-2018,12,Augsburg,34,10,11,13,43,46,-3,41,1.21,
+Bundesliga,2017-2018,13,Hannover 96,34,10,9,15,44,54,-10,39,1.15,
+Bundesliga,2017-2018,14,Mainz 05,34,9,9,16,38,52,-14,36,1.06,
+Bundesliga,2017-2018,15,Freiburg,34,8,12,14,32,56,-24,36,1.06,
+Bundesliga,2017-2018,16,Wolfsburg,34,6,15,13,36,48,-12,33,0.97,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2017-2018,17,Hamburger SV,34,8,7,19,29,53,-24,31,0.91,Relegated
+Bundesliga,2017-2018,18,Köln,34,5,7,22,35,70,-35,22,0.65,Relegated
+Bundesliga,2018-2019,1,Bayern Munich,34,24,6,4,88,32,56,78,2.29,→ Champions League via league finish
+Bundesliga,2018-2019,2,Dortmund,34,23,7,4,81,44,37,76,2.24,→ Champions League via league finish
+Bundesliga,2018-2019,3,RB Leipzig,34,19,9,6,63,29,34,66,1.94,→ Champions League via league finish
+Bundesliga,2018-2019,4,Leverkusen,34,18,4,12,69,52,17,58,1.71,→ Champions League via league finish
+Bundesliga,2018-2019,5,Gladbach,34,16,7,11,55,42,13,55,1.62,→ Europa League via league finish
+Bundesliga,2018-2019,6,Wolfsburg,34,16,7,11,62,50,12,55,1.62,→ Europa League via league finish 1
+Bundesliga,2018-2019,7,Eint Frankfurt,34,15,9,10,60,48,12,54,1.59,→ Europa League via league finish
+Bundesliga,2018-2019,8,Werder Bremen,34,14,11,9,58,49,9,53,1.56,
+Bundesliga,2018-2019,9,Hoffenheim,34,13,12,9,70,52,18,51,1.5,
+Bundesliga,2018-2019,10,Düsseldorf,34,13,5,16,49,65,-16,44,1.29,
+Bundesliga,2018-2019,11,Hertha BSC,34,11,10,13,49,57,-8,43,1.26,
+Bundesliga,2018-2019,12,Mainz 05,34,12,7,15,46,57,-11,43,1.26,
+Bundesliga,2018-2019,13,Freiburg,34,8,12,14,46,61,-15,36,1.06,
+Bundesliga,2018-2019,14,Schalke 04,34,8,9,17,37,55,-18,33,0.97,
+Bundesliga,2018-2019,15,Augsburg,34,8,8,18,51,71,-20,32,0.94,
+Bundesliga,2018-2019,16,Stuttgart,34,7,7,20,32,70,-38,28,0.82,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2018-2019,17,Hannover 96,34,5,6,23,31,71,-40,21,0.62,Relegated
+Bundesliga,2018-2019,18,Nürnberg,34,3,10,21,26,68,-42,19,0.56,Relegated
+Bundesliga,2019-2020,1,Bayern Munich,34,26,4,4,100,32,68,82,2.41,→ Champions League via league finish
+Bundesliga,2019-2020,2,Dortmund,34,21,6,7,84,41,43,69,2.03,→ Champions League via league finish
+Bundesliga,2019-2020,3,RB Leipzig,34,18,12,4,81,37,44,66,1.94,→ Champions League via league finish
+Bundesliga,2019-2020,4,Gladbach,34,20,5,9,66,40,26,65,1.91,→ Champions League via league finish
+Bundesliga,2019-2020,5,Leverkusen,34,19,6,9,61,44,17,63,1.85,→ Europa League via league finish 1
+Bundesliga,2019-2020,6,Hoffenheim,34,15,7,12,53,53,0,52,1.53,→ Europa League via league finish
+Bundesliga,2019-2020,7,Wolfsburg,34,13,10,11,48,46,2,49,1.44,→ Europa League via league finish
+Bundesliga,2019-2020,8,Freiburg,34,13,9,12,48,47,1,48,1.41,
+Bundesliga,2019-2020,9,Eint Frankfurt,34,13,6,15,59,60,-1,45,1.32,
+Bundesliga,2019-2020,10,Hertha BSC,34,11,8,15,48,59,-11,41,1.21,
+Bundesliga,2019-2020,11,Union Berlin,34,12,5,17,41,58,-17,41,1.21,
+Bundesliga,2019-2020,12,Schalke 04,34,9,12,13,38,58,-20,39,1.15,
+Bundesliga,2019-2020,13,Mainz 05,34,11,4,19,44,65,-21,37,1.09,
+Bundesliga,2019-2020,14,Köln,34,10,6,18,51,69,-18,36,1.06,
+Bundesliga,2019-2020,15,Augsburg,34,9,9,16,45,63,-18,36,1.06,
+Bundesliga,2019-2020,16,Werder Bremen,34,8,7,19,42,69,-27,31,0.91,→ German 1/2 Relegation/Promotion Playoffs
+Bundesliga,2019-2020,17,Düsseldorf,34,6,12,16,36,67,-31,30,0.88,Relegated
+Bundesliga,2019-2020,18,Paderborn 07,34,4,8,22,37,74,-37,20,0.59,Relegated
+Bundesliga,2020-2021,1,Bayern Munich,34,24,6,4,99,44,55,78,2.29,→ Champions League via league finish
+Bundesliga,2020-2021,2,RB Leipzig,34,19,8,7,60,32,28,65,1.91,→ Champions League via league finish
+Bundesliga,2020-2021,3,Dortmund,34,20,4,10,75,46,29,64,1.88,→ Champions League via league finish
+Bundesliga,2020-2021,4,Wolfsburg,34,17,10,7,61,37,24,61,1.79,→ Champions League via league finish
+Bundesliga,2020-2021,5,Eint Frankfurt,34,16,12,6,69,53,16,60,1.76,→ Europa League via league finish
+Bundesliga,2020-2021,6,Leverkusen,34,14,10,10,53,39,14,52,1.53,→ Europa League via league finish 1
+Bundesliga,2020-2021,7,Union Berlin,34,12,14,8,50,43,7,50,1.47,→ Europa Conference League via league finish
+Bundesliga,2020-2021,8,Gladbach,34,13,10,11,64,56,8,49,1.44,
+Bundesliga,2020-2021,9,Stuttgart,34,12,9,13,56,55,1,45,1.32,
+Bundesliga,2020-2021,10,Freiburg,34,12,9,13,52,52,0,45,1.32,
+Bundesliga,2020-2021,11,Hoffenheim,34,11,10,13,52,54,-2,43,1.26,
+Bundesliga,2020-2021,12,Mainz 05,34,10,9,15,39,56,-17,39,1.15,
+Bundesliga,2020-2021,13,Augsburg,34,10,6,18,36,54,-18,36,1.06,
+Bundesliga,2020-2021,14,Hertha BSC,34,8,11,15,41,52,-11,35,1.03,
+Bundesliga,2020-2021,15,Arminia,34,9,8,17,26,52,-26,35,1.03,
+Bundesliga,2020-2021,16,Köln,34,8,9,17,34,60,-26,33,0.97,→ German 1/2 Relegation/Promotion Play-offs
+Bundesliga,2020-2021,17,Werder Bremen,34,7,10,17,36,57,-21,31,0.91,Relegated
+Bundesliga,2020-2021,18,Schalke 04,34,3,7,24,25,86,-61,16,0.47,Relegated
+Bundesliga,2021-2022,1,Bayern Munich,34,24,5,5,97,37,60,77,2.26,→ Champions League via league finish
+Bundesliga,2021-2022,2,Dortmund,34,22,3,9,85,52,33,69,2.03,→ Champions League via league finish
+Bundesliga,2021-2022,3,Leverkusen,34,19,7,8,80,47,33,64,1.88,→ Champions League via league finish
+Bundesliga,2021-2022,4,RB Leipzig,34,17,7,10,72,37,35,58,1.71,→ Champions League via league finish
+Bundesliga,2021-2022,5,Union Berlin,34,16,9,9,50,44,6,57,1.68,→ Europa League via league finish
+Bundesliga,2021-2022,6,Freiburg,34,15,10,9,58,46,12,55,1.62,→ Europa League via league finish
+Bundesliga,2021-2022,7,Köln,34,14,10,10,52,49,3,52,1.53,→ Europa Conference League via league finish
+Bundesliga,2021-2022,8,Mainz 05,34,13,7,14,50,45,5,46,1.35,
+Bundesliga,2021-2022,9,Hoffenheim,34,13,7,14,58,60,-2,46,1.35,
+Bundesliga,2021-2022,10,Gladbach,34,12,9,13,54,61,-7,45,1.32,
+Bundesliga,2021-2022,11,Eint Frankfurt,34,10,12,12,45,49,-4,42,1.24,
+Bundesliga,2021-2022,12,Wolfsburg,34,12,6,16,43,54,-11,42,1.24,
+Bundesliga,2021-2022,13,Bochum,34,12,6,16,38,52,-14,42,1.24,
+Bundesliga,2021-2022,14,Augsburg,34,10,8,16,39,56,-17,38,1.12,
+Bundesliga,2021-2022,15,Stuttgart,34,7,12,15,41,59,-18,33,0.97,
+Bundesliga,2021-2022,16,Hertha BSC,34,9,6,19,37,71,-34,33,0.97,→ German 1/2 Relegation/Promotion Play-offs
+Bundesliga,2021-2022,17,Arminia,34,5,13,16,27,53,-26,28,0.82,Relegated
+Bundesliga,2021-2022,18,Greuther Fürth,34,3,9,22,28,82,-54,18,0.53,Relegated
+Bundesliga,2022-2023,1,Bayern Munich,34,21,8,5,92,38,54,71,2.09,→ Champions League via league finish
+Bundesliga,2022-2023,2,Dortmund,34,22,5,7,83,44,39,71,2.09,→ Champions League via league finish
+Bundesliga,2022-2023,3,RB Leipzig,34,20,6,8,64,41,23,66,1.94,→ Champions League via league finish
+Bundesliga,2022-2023,4,Union Berlin,34,18,8,8,51,38,13,62,1.82,→ Champions League via league finish
+Bundesliga,2022-2023,5,Freiburg,34,17,8,9,51,44,7,59,1.74,→ Europa League via league finish
+Bundesliga,2022-2023,6,Leverkusen,34,14,8,12,57,49,8,50,1.47,→ Europa League via league finish
+Bundesliga,2022-2023,7,Eint Frankfurt,34,13,11,10,58,52,6,50,1.47,→ Europa Conference League via league finish
+Bundesliga,2022-2023,8,Wolfsburg,34,13,10,11,57,48,9,49,1.44,
+Bundesliga,2022-2023,9,Mainz 05,34,12,10,12,54,55,-1,46,1.35,
+Bundesliga,2022-2023,10,Gladbach,34,11,10,13,52,55,-3,43,1.26,
+Bundesliga,2022-2023,11,Köln,34,10,12,12,49,54,-5,42,1.24,
+Bundesliga,2022-2023,12,Hoffenheim,34,10,6,18,48,57,-9,36,1.06,
+Bundesliga,2022-2023,13,Werder Bremen,34,10,6,18,51,64,-13,36,1.06,
+Bundesliga,2022-2023,14,Bochum,34,10,5,19,40,72,-32,35,1.03,
+Bundesliga,2022-2023,15,Augsburg,34,9,7,18,42,63,-21,34,1.0,
+Bundesliga,2022-2023,16,Stuttgart,34,7,12,15,45,57,-12,33,0.97,→ German 1/2 Relegation/Promotion Play-offs
+Bundesliga,2022-2023,17,Schalke 04,34,7,10,17,35,71,-36,31,0.91,Relegated
+Bundesliga,2022-2023,18,Hertha BSC,34,7,8,19,42,69,-27,29,0.85,Relegated
+Bundesliga,2023-2024,1,Leverkusen,34,28,6,0,89,24,65,90,2.65,→ Champions League via league finish
+Bundesliga,2023-2024,2,Stuttgart,34,23,4,7,78,39,39,73,2.15,→ Champions League via league finish
+Bundesliga,2023-2024,3,Bayern Munich,34,23,3,8,94,45,49,72,2.12,→ Champions League via league finish
+Bundesliga,2023-2024,4,RB Leipzig,34,19,8,7,77,39,38,65,1.91,→ Champions League via league finish
+Bundesliga,2023-2024,5,Dortmund,34,18,9,7,68,43,25,63,1.85,→ Champions League via league finish
+Bundesliga,2023-2024,6,Eint Frankfurt,34,11,14,9,51,50,1,47,1.38,→ Europa League via league finish
+Bundesliga,2023-2024,7,Hoffenheim,34,13,7,14,66,66,0,46,1.35,→ Europa League via league finish
+Bundesliga,2023-2024,8,Heidenheim,34,10,12,12,50,55,-5,42,1.24,→ Europa Conference League via league finish
+Bundesliga,2023-2024,9,Werder Bremen,34,11,9,14,48,54,-6,42,1.24,
+Bundesliga,2023-2024,10,Freiburg,34,11,9,14,45,58,-13,42,1.24,
+Bundesliga,2023-2024,11,Augsburg,34,10,9,15,50,60,-10,39,1.15,
+Bundesliga,2023-2024,12,Wolfsburg,34,10,7,17,41,56,-15,37,1.09,
+Bundesliga,2023-2024,13,Mainz 05,34,7,14,13,39,51,-12,35,1.03,
+Bundesliga,2023-2024,14,Gladbach,34,7,13,14,56,67,-11,34,1.0,
+Bundesliga,2023-2024,15,Union Berlin,34,9,6,19,33,58,-25,33,0.97,
+Bundesliga,2023-2024,16,Bochum,34,7,12,15,42,74,-32,33,0.97,→ German 1/2 Relegation/Promotion Play-offs
+Bundesliga,2023-2024,17,Köln,34,5,12,17,28,60,-32,27,0.79,Relegated
+Bundesliga,2023-2024,18,Darmstadt 98,34,3,8,23,30,86,-56,17,0.5,Relegated
+Serie A,2010-2011,1,Milan,38,24,10,4,65,24,41,82,2.16,→ Champions League via league finish
+Serie A,2010-2011,2,Inter,38,23,7,8,69,42,27,76,2.0,→ Champions League via league finish
+Serie A,2010-2011,3,Napoli,38,21,7,10,59,39,20,70,1.84,→ Champions League via league finish
+Serie A,2010-2011,4,Udinese,38,20,6,12,65,43,22,66,1.74,→ Champions League via league finish
+Serie A,2010-2011,5,Lazio,38,20,6,12,55,39,16,66,1.74,→ Europa League via league finish
+Serie A,2010-2011,6,Roma,38,18,9,11,59,52,7,63,1.66,→ Europa League via league finish 1
+Serie A,2010-2011,7,Juventus,38,15,13,10,57,47,10,58,1.53,
+Serie A,2010-2011,8,Palermo,38,17,5,16,58,63,-5,56,1.47,→ Europa League via cup loss 2
+Serie A,2010-2011,9,Fiorentina,38,12,15,11,49,44,5,51,1.34,
+Serie A,2010-2011,10,Genoa,38,14,9,15,45,47,-2,51,1.34,
+Serie A,2010-2011,11,Chievo,38,11,13,14,38,40,-2,46,1.21,
+Serie A,2010-2011,12,Parma,38,11,13,14,39,47,-8,46,1.21,
+Serie A,2010-2011,13,Catania,38,12,10,16,40,52,-12,46,1.21,
+Serie A,2010-2011,14,Cagliari,38,12,9,17,44,51,-7,45,1.18,
+Serie A,2010-2011,15,Cesena,38,11,10,17,38,50,-12,43,1.13,
+Serie A,2010-2011,16,Bologna,38,11,12,15,35,52,-17,42,1.11,3-point deduction 3
+Serie A,2010-2011,17,Lecce,38,11,8,19,46,66,-20,41,1.08,
+Serie A,2010-2011,18,Sampdoria,38,8,12,18,33,49,-16,36,0.95,Relegated
+Serie A,2010-2011,19,Brescia,38,7,11,20,34,52,-18,32,0.84,Relegated
+Serie A,2010-2011,20,Bari,38,5,9,24,27,56,-29,24,0.63,Relegated
+Serie A,2011-2012,1,Juventus,38,23,15,0,68,20,48,84,2.21,→ Champions League via league finish
+Serie A,2011-2012,2,Milan,38,24,8,6,74,33,41,80,2.11,→ Champions League via league finish
+Serie A,2011-2012,3,Udinese,38,18,10,10,52,35,17,64,1.68,→ Champions League via league finish
+Serie A,2011-2012,4,Lazio,38,18,8,12,56,47,9,62,1.63,→ Europa League via league finish
+Serie A,2011-2012,5,Napoli,38,16,13,9,66,46,20,61,1.61,→ Europa League via cup win 1
+Serie A,2011-2012,6,Inter,38,17,7,14,58,55,3,58,1.53,→ Europa League via league finish
+Serie A,2011-2012,7,Roma,38,16,8,14,60,54,6,56,1.47,
+Serie A,2011-2012,8,Parma,38,15,11,12,54,53,1,56,1.47,
+Serie A,2011-2012,9,Bologna,38,13,12,13,41,43,-2,51,1.34,
+Serie A,2011-2012,10,Chievo,38,12,13,13,35,45,-10,49,1.29,
+Serie A,2011-2012,11,Catania,38,11,15,12,47,52,-5,48,1.26,
+Serie A,2011-2012,12,Atalanta,38,13,13,12,41,43,-2,46,1.21,6-point deduction 2
+Serie A,2011-2012,13,Fiorentina,38,11,13,14,37,43,-6,46,1.21,
+Serie A,2011-2012,14,Siena,38,11,11,16,45,45,0,44,1.16,
+Serie A,2011-2012,15,Cagliari,38,10,13,15,37,46,-9,43,1.13,
+Serie A,2011-2012,16,Palermo,38,11,10,17,52,62,-10,43,1.13,
+Serie A,2011-2012,17,Genoa,38,11,9,18,50,69,-19,42,1.11,
+Serie A,2011-2012,18,Lecce,38,8,12,18,40,56,-16,36,0.95,Relegated 3
+Serie A,2011-2012,19,Novara,38,7,11,20,35,65,-30,32,0.84,Relegated
+Serie A,2011-2012,20,Cesena,38,4,10,24,24,60,-36,22,0.58,Relegated
+Serie A,2012-2013,1,Juventus,38,27,6,5,71,24,47,87,2.29,→ Champions League via league finish
+Serie A,2012-2013,2,Napoli,38,23,9,6,73,36,37,78,2.05,→ Champions League via league finish
+Serie A,2012-2013,3,Milan,38,21,9,8,67,39,28,72,1.89,→ Champions League via league finish
+Serie A,2012-2013,4,Fiorentina,38,21,7,10,72,44,28,70,1.84,→ Europa League via league finish
+Serie A,2012-2013,5,Udinese,38,18,12,8,59,45,14,66,1.74,→ Europa League via league finish
+Serie A,2012-2013,6,Roma,38,18,8,12,71,56,15,62,1.63,
+Serie A,2012-2013,7,Lazio,38,18,7,13,51,42,9,61,1.61,→ Europa League via cup win 1
+Serie A,2012-2013,8,Catania,38,15,11,12,50,46,4,56,1.47,
+Serie A,2012-2013,9,Inter,38,16,6,16,55,57,-2,54,1.42,
+Serie A,2012-2013,10,Parma,38,13,10,15,45,46,-1,49,1.29,
+Serie A,2012-2013,11,Cagliari,38,12,11,15,43,55,-12,47,1.24,
+Serie A,2012-2013,12,Chievo,38,12,9,17,37,52,-15,45,1.18,
+Serie A,2012-2013,13,Bologna,38,11,11,16,46,52,-6,44,1.16,
+Serie A,2012-2013,14,Sampdoria,38,11,10,17,43,51,-8,42,1.11,1-point deduction 2
+Serie A,2012-2013,15,Atalanta,38,11,9,18,39,56,-17,40,1.05,2-point deduction 3
+Serie A,2012-2013,16,Torino,38,8,16,14,46,55,-9,39,1.03,1-point deduction 4
+Serie A,2012-2013,17,Genoa,38,8,14,16,38,52,-14,38,1.0,
+Serie A,2012-2013,18,Palermo,38,6,14,18,34,54,-20,32,0.84,Relegated
+Serie A,2012-2013,19,Siena,38,9,9,20,36,57,-21,30,0.79,"6-point deduction 5, Relegated"
+Serie A,2012-2013,20,Pescara,38,6,4,28,27,84,-57,22,0.58,Relegated
+Serie A,2013-2014,1,Juventus,38,33,3,2,80,23,57,102,2.68,→ Champions League via league finish
+Serie A,2013-2014,2,Roma,38,26,7,5,72,25,47,85,2.24,→ Champions League via league finish
+Serie A,2013-2014,3,Napoli,38,23,9,6,77,39,38,78,2.05,→ Champions League via league finish
+Serie A,2013-2014,4,Fiorentina,38,19,8,11,65,44,21,65,1.71,→ Europa League via league finish 1
+Serie A,2013-2014,5,Inter,38,15,15,8,62,39,23,60,1.58,→ Europa League via league finish
+Serie A,2013-2014,6,Parma,38,15,13,10,58,46,12,58,1.53,
+Serie A,2013-2014,7,Torino,38,15,12,11,58,48,10,57,1.5,→ Europa League via league finish
+Serie A,2013-2014,8,Milan,38,16,9,13,57,49,8,57,1.5,
+Serie A,2013-2014,9,Lazio,38,15,11,12,54,54,0,56,1.47,
+Serie A,2013-2014,10,Hellas Verona,38,16,6,16,62,68,-6,54,1.42,
+Serie A,2013-2014,11,Atalanta,38,15,5,18,43,51,-8,50,1.32,
+Serie A,2013-2014,12,Sampdoria,38,12,9,17,48,62,-14,45,1.18,
+Serie A,2013-2014,13,Udinese,38,12,8,18,46,57,-11,44,1.16,
+Serie A,2013-2014,14,Genoa,38,11,11,16,41,50,-9,44,1.16,
+Serie A,2013-2014,15,Cagliari,38,9,12,17,34,53,-19,39,1.03,
+Serie A,2013-2014,16,Chievo,38,10,6,22,34,54,-20,36,0.95,
+Serie A,2013-2014,17,Sassuolo,38,9,7,22,43,72,-29,34,0.89,
+Serie A,2013-2014,18,Catania,38,8,8,22,34,66,-32,32,0.84,Relegated
+Serie A,2013-2014,19,Bologna,38,5,14,19,28,58,-30,29,0.76,Relegated
+Serie A,2013-2014,20,Livorno,38,6,7,25,39,77,-38,25,0.66,Relegated
+Serie A,2014-2015,1,Juventus,38,26,9,3,72,24,48,87,2.29,→ Champions League via league finish
+Serie A,2014-2015,2,Roma,38,19,13,6,54,31,23,70,1.84,→ Champions League via league finish
+Serie A,2014-2015,3,Lazio,38,21,6,11,71,38,33,69,1.82,→ Champions League via league finish
+Serie A,2014-2015,4,Fiorentina,38,18,10,10,61,46,15,64,1.68,→ Europa League via league finish
+Serie A,2014-2015,5,Napoli,38,18,9,11,70,54,16,63,1.66,→ Europa League via league finish 1
+Serie A,2014-2015,6,Genoa,38,16,11,11,62,47,15,59,1.55,
+Serie A,2014-2015,7,Sampdoria,38,13,17,8,48,42,6,56,1.47,→ Europa League via league finish
+Serie A,2014-2015,8,Inter,38,14,13,11,59,48,11,55,1.45,
+Serie A,2014-2015,9,Torino,38,14,12,12,48,45,3,54,1.42,
+Serie A,2014-2015,10,Milan,38,13,13,12,56,50,6,52,1.37,
+Serie A,2014-2015,11,Palermo,38,12,13,13,53,55,-2,49,1.29,
+Serie A,2014-2015,12,Sassuolo,38,12,13,13,49,57,-8,49,1.29,
+Serie A,2014-2015,13,Hellas Verona,38,11,13,14,49,65,-16,46,1.21,
+Serie A,2014-2015,14,Chievo,38,10,13,15,28,41,-13,43,1.13,
+Serie A,2014-2015,15,Empoli,38,8,18,12,46,52,-6,42,1.11,
+Serie A,2014-2015,16,Udinese,38,10,11,17,43,56,-13,41,1.08,
+Serie A,2014-2015,17,Atalanta,38,7,16,15,38,57,-19,37,0.97,
+Serie A,2014-2015,18,Cagliari,38,8,10,20,48,68,-20,34,0.89,Relegated
+Serie A,2014-2015,19,Cesena,38,4,12,22,36,73,-37,24,0.63,Relegated
+Serie A,2014-2015,20,Parma,38,6,8,24,33,75,-42,19,0.5,"7-point deduction 2, Relegated 3"
+Serie A,2015-2016,1,Juventus,38,29,4,5,75,20,55,91,2.39,→ Champions League via league finish
+Serie A,2015-2016,2,Napoli,38,25,7,6,80,32,48,82,2.16,→ Champions League via league finish
+Serie A,2015-2016,3,Roma,38,23,11,4,83,41,42,80,2.11,→ Champions League via league finish
+Serie A,2015-2016,4,Inter,38,20,7,11,50,38,12,67,1.76,→ Europa League via league finish
+Serie A,2015-2016,5,Fiorentina,38,18,10,10,60,42,18,64,1.68,→ Europa League via league finish 1
+Serie A,2015-2016,6,Sassuolo,38,16,13,9,49,40,9,61,1.61,→ Europa League via league finish
+Serie A,2015-2016,7,Milan,38,15,12,11,49,43,6,57,1.5,
+Serie A,2015-2016,8,Lazio,38,15,9,14,52,52,0,54,1.42,
+Serie A,2015-2016,9,Chievo,38,13,11,14,43,45,-2,50,1.32,
+Serie A,2015-2016,10,Empoli,38,12,10,16,40,49,-9,46,1.21,
+Serie A,2015-2016,11,Genoa,38,13,7,18,45,48,-3,46,1.21,
+Serie A,2015-2016,12,Torino,38,12,9,17,52,55,-3,45,1.18,
+Serie A,2015-2016,13,Atalanta,38,11,12,15,41,47,-6,45,1.18,
+Serie A,2015-2016,14,Bologna,38,11,9,18,33,45,-12,42,1.11,
+Serie A,2015-2016,15,Sampdoria,38,10,10,18,48,61,-13,40,1.05,
+Serie A,2015-2016,16,Palermo,38,10,9,19,38,65,-27,39,1.03,
+Serie A,2015-2016,17,Udinese,38,10,9,19,35,60,-25,39,1.03,
+Serie A,2015-2016,18,Carpi,38,9,11,18,37,57,-20,38,1.0,Relegated
+Serie A,2015-2016,19,Frosinone,38,8,7,23,35,76,-41,31,0.82,Relegated
+Serie A,2015-2016,20,Hellas Verona,38,5,13,20,34,63,-29,28,0.74,Relegated
+Serie A,2016-2017,1,Juventus,38,29,4,5,77,27,50,91,2.39,→ Champions League via league finish
+Serie A,2016-2017,2,Roma,38,28,3,7,90,38,52,87,2.29,→ Champions League via league finish
+Serie A,2016-2017,3,Napoli,38,26,8,4,94,39,55,86,2.26,→ Champions League via league finish
+Serie A,2016-2017,4,Atalanta,38,21,9,8,62,41,21,72,1.89,→ Europa League via league finish
+Serie A,2016-2017,5,Lazio,38,21,7,10,74,51,23,70,1.84,→ Europa League via league finish 1
+Serie A,2016-2017,6,Milan,38,18,9,11,57,45,12,63,1.66,→ Europa League via league finish
+Serie A,2016-2017,7,Inter,38,19,5,14,72,49,23,62,1.63,
+Serie A,2016-2017,8,Fiorentina,38,16,12,10,63,57,6,60,1.58,
+Serie A,2016-2017,9,Torino,38,13,14,11,71,66,5,53,1.39,
+Serie A,2016-2017,10,Sampdoria,38,12,12,14,49,55,-6,48,1.26,
+Serie A,2016-2017,11,Cagliari,38,14,5,19,55,76,-21,47,1.24,
+Serie A,2016-2017,12,Sassuolo,38,13,7,18,58,63,-5,46,1.21,
+Serie A,2016-2017,13,Udinese,38,12,9,17,47,56,-9,45,1.18,
+Serie A,2016-2017,14,Chievo,38,12,7,19,43,61,-18,43,1.13,
+Serie A,2016-2017,15,Bologna,38,11,8,19,40,58,-18,41,1.08,
+Serie A,2016-2017,16,Genoa,38,9,9,20,38,64,-26,36,0.95,
+Serie A,2016-2017,17,Crotone,38,9,7,22,34,58,-24,34,0.89,
+Serie A,2016-2017,18,Empoli,38,8,8,22,29,61,-32,32,0.84,Relegated
+Serie A,2016-2017,19,Palermo,38,6,8,24,33,77,-44,26,0.68,Relegated
+Serie A,2016-2017,20,Pescara,38,3,9,26,37,81,-44,18,0.47,Relegated
+Serie A,2017-2018,1,Juventus,38,30,5,3,86,24,62,95,2.5,→ Champions League via league finish
+Serie A,2017-2018,2,Napoli,38,28,7,3,77,29,48,91,2.39,→ Champions League via league finish
+Serie A,2017-2018,3,Roma,38,23,8,7,61,28,33,77,2.03,→ Champions League via league finish
+Serie A,2017-2018,4,Inter,38,20,12,6,66,30,36,72,1.89,→ Champions League via league finish
+Serie A,2017-2018,5,Lazio,38,21,9,8,89,49,40,72,1.89,→ Europa League via league finish
+Serie A,2017-2018,6,Milan,38,18,10,10,56,42,14,64,1.68,→ Europa League via league finish 1
+Serie A,2017-2018,7,Atalanta,38,16,12,10,57,39,18,60,1.58,→ Europa League via league finish
+Serie A,2017-2018,8,Fiorentina,38,16,9,13,54,46,8,57,1.5,
+Serie A,2017-2018,9,Torino,38,13,15,10,54,46,8,54,1.42,
+Serie A,2017-2018,10,Sampdoria,38,16,6,16,56,60,-4,54,1.42,
+Serie A,2017-2018,11,Sassuolo,38,11,10,17,29,59,-30,43,1.13,
+Serie A,2017-2018,12,Genoa,38,11,8,19,33,43,-10,41,1.08,
+Serie A,2017-2018,13,Chievo,38,10,10,18,36,59,-23,40,1.05,
+Serie A,2017-2018,14,Udinese,38,12,4,22,48,63,-15,40,1.05,
+Serie A,2017-2018,15,Bologna,38,11,6,21,40,52,-12,39,1.03,
+Serie A,2017-2018,16,Cagliari,38,11,6,21,33,61,-28,39,1.03,
+Serie A,2017-2018,17,SPAL,38,8,14,16,39,59,-20,38,1.0,
+Serie A,2017-2018,18,Crotone,38,9,8,21,40,66,-26,35,0.92,Relegated
+Serie A,2017-2018,19,Hellas Verona,38,7,4,27,30,78,-48,25,0.66,Relegated
+Serie A,2017-2018,20,Benevento,38,6,3,29,33,84,-51,21,0.55,Relegated
+Serie A,2018-2019,1,Juventus,38,28,6,4,70,30,40,90,2.37,→ Champions League via league finish
+Serie A,2018-2019,2,Napoli,38,24,7,7,74,36,38,79,2.08,→ Champions League via league finish
+Serie A,2018-2019,3,Atalanta,38,20,9,9,77,46,31,69,1.82,→ Champions League via league finish
+Serie A,2018-2019,4,Inter,38,20,9,9,57,33,24,69,1.82,→ Champions League via league finish
+Serie A,2018-2019,5,Milan,38,19,11,8,55,36,19,68,1.79,Ineligible for continental competition 1
+Serie A,2018-2019,6,Roma,38,18,12,8,66,48,18,66,1.74,→ Europa League via league finish
+Serie A,2018-2019,7,Torino,38,16,15,7,52,37,15,63,1.66,→ Europa League via league finish
+Serie A,2018-2019,8,Lazio,38,17,8,13,56,46,10,59,1.55,→ Europa League via cup win 2
+Serie A,2018-2019,9,Sampdoria,38,15,8,15,60,51,9,53,1.39,
+Serie A,2018-2019,10,Bologna,38,11,11,16,48,56,-8,44,1.16,
+Serie A,2018-2019,11,Sassuolo,38,9,16,13,53,60,-7,43,1.13,
+Serie A,2018-2019,12,Udinese,38,11,10,17,39,53,-14,43,1.13,
+Serie A,2018-2019,13,SPAL,38,11,9,18,44,56,-12,42,1.11,
+Serie A,2018-2019,14,Parma,38,10,11,17,41,61,-20,41,1.08,
+Serie A,2018-2019,15,Cagliari,38,10,11,17,36,54,-18,41,1.08,
+Serie A,2018-2019,16,Fiorentina,38,8,17,13,47,45,2,41,1.08,
+Serie A,2018-2019,17,Genoa,38,8,14,16,39,57,-18,38,1.0,
+Serie A,2018-2019,18,Empoli,38,10,8,20,51,70,-19,38,1.0,Relegated
+Serie A,2018-2019,19,Frosinone,38,5,10,23,29,69,-40,25,0.66,Relegated
+Serie A,2018-2019,20,Chievo,38,2,14,22,25,75,-50,17,0.45,"3-point deduction 3, Relegated"
+Serie A,2019-2020,1,Juventus,38,26,5,7,76,43,33,83,2.18,→ Champions League via league finish
+Serie A,2019-2020,2,Inter,38,24,10,4,81,36,45,82,2.16,→ Champions League via league finish
+Serie A,2019-2020,3,Atalanta,38,23,9,6,98,48,50,78,2.05,→ Champions League via league finish
+Serie A,2019-2020,4,Lazio,38,24,6,8,79,42,37,78,2.05,→ Champions League via league finish
+Serie A,2019-2020,5,Roma,38,21,7,10,77,51,26,70,1.84,→ Europa League via league finish
+Serie A,2019-2020,6,Milan,38,19,9,10,63,46,17,66,1.74,→ Europa League via league finish
+Serie A,2019-2020,7,Napoli,38,18,8,12,61,50,11,62,1.63,→ Europa League via cup win 1
+Serie A,2019-2020,8,Sassuolo,38,14,9,15,69,63,6,51,1.34,
+Serie A,2019-2020,9,Hellas Verona,38,12,13,13,47,51,-4,49,1.29,
+Serie A,2019-2020,10,Fiorentina,38,12,13,13,51,48,3,49,1.29,
+Serie A,2019-2020,11,Parma,38,14,7,17,56,57,-1,49,1.29,
+Serie A,2019-2020,12,Bologna,38,12,11,15,52,65,-13,47,1.24,
+Serie A,2019-2020,13,Udinese,38,12,9,17,37,51,-14,45,1.18,
+Serie A,2019-2020,14,Cagliari,38,11,12,15,52,56,-4,45,1.18,
+Serie A,2019-2020,15,Sampdoria,38,12,6,20,48,65,-17,42,1.11,
+Serie A,2019-2020,16,Torino,38,11,7,20,46,68,-22,40,1.05,
+Serie A,2019-2020,17,Genoa,38,10,9,19,47,73,-26,39,1.03,
+Serie A,2019-2020,18,Lecce,38,9,8,21,52,85,-33,35,0.92,Relegated
+Serie A,2019-2020,19,Brescia,38,6,7,25,35,79,-44,25,0.66,Relegated
+Serie A,2019-2020,20,SPAL,38,5,5,28,27,77,-50,20,0.53,Relegated
+Serie A,2020-2021,1,Inter,38,28,7,3,89,35,54,91,2.39,→ Champions League via league finish
+Serie A,2020-2021,2,Milan,38,24,7,7,74,41,33,79,2.08,→ Champions League via league finish
+Serie A,2020-2021,3,Atalanta,38,23,9,6,90,47,43,78,2.05,→ Champions League via league finish
+Serie A,2020-2021,4,Juventus,38,23,9,6,77,38,39,78,2.05,→ Champions League via league finish
+Serie A,2020-2021,5,Napoli,38,24,5,9,86,41,45,77,2.03,→ Europa League via league finish
+Serie A,2020-2021,6,Lazio,38,21,5,12,61,55,6,68,1.79,→ Europa League via league finish 1
+Serie A,2020-2021,7,Roma,38,18,8,12,68,58,10,62,1.63,→ Europa Conference League via league finish
+Serie A,2020-2021,8,Sassuolo,38,17,11,10,64,56,8,62,1.63,
+Serie A,2020-2021,9,Sampdoria,38,15,7,16,52,54,-2,52,1.37,
+Serie A,2020-2021,10,Hellas Verona,38,11,12,15,46,48,-2,45,1.18,
+Serie A,2020-2021,11,Genoa,38,10,12,16,47,58,-11,42,1.11,
+Serie A,2020-2021,12,Bologna,38,10,11,17,51,65,-14,41,1.08,
+Serie A,2020-2021,13,Fiorentina,38,9,13,16,47,59,-12,40,1.05,
+Serie A,2020-2021,14,Udinese,38,10,10,18,42,58,-16,40,1.05,
+Serie A,2020-2021,15,Spezia,38,9,12,17,52,72,-20,39,1.03,
+Serie A,2020-2021,16,Cagliari,38,9,10,19,43,59,-16,37,0.97,
+Serie A,2020-2021,17,Torino,38,7,16,15,50,69,-19,37,0.97,
+Serie A,2020-2021,18,Benevento,38,7,12,19,40,75,-35,33,0.87,Relegated
+Serie A,2020-2021,19,Crotone,38,6,5,27,45,92,-47,23,0.61,Relegated
+Serie A,2020-2021,20,Parma,38,3,11,24,39,83,-44,20,0.53,Relegated
+Serie A,2021-2022,1,Milan,38,26,8,4,69,31,38,86,2.26,→ Champions League via league finish
+Serie A,2021-2022,2,Inter,38,25,9,4,84,32,52,84,2.21,→ Champions League via league finish
+Serie A,2021-2022,3,Napoli,38,24,7,7,74,31,43,79,2.08,→ Champions League via league finish
+Serie A,2021-2022,4,Juventus,38,20,10,8,57,37,20,70,1.84,→ Champions League via league finish
+Serie A,2021-2022,5,Lazio,38,18,10,10,77,58,19,64,1.68,→ Europa League via league finish
+Serie A,2021-2022,6,Roma,38,18,9,11,59,43,16,63,1.66,→ Europa League via league finish
+Serie A,2021-2022,7,Fiorentina,38,19,5,14,59,51,8,62,1.63,→ Europa Conference League via league finish
+Serie A,2021-2022,8,Atalanta,38,16,11,11,65,48,17,59,1.55,
+Serie A,2021-2022,9,Hellas Verona,38,14,11,13,65,59,6,53,1.39,
+Serie A,2021-2022,10,Torino,38,13,11,14,46,41,5,50,1.32,
+Serie A,2021-2022,11,Sassuolo,38,13,11,14,64,66,-2,50,1.32,
+Serie A,2021-2022,12,Udinese,38,11,14,13,61,58,3,47,1.24,
+Serie A,2021-2022,13,Bologna,38,12,10,16,44,55,-11,46,1.21,
+Serie A,2021-2022,14,Empoli,38,10,11,17,50,70,-20,41,1.08,
+Serie A,2021-2022,15,Sampdoria,38,10,6,22,46,63,-17,36,0.95,
+Serie A,2021-2022,16,Spezia,38,10,6,22,41,71,-30,36,0.95,
+Serie A,2021-2022,17,Salernitana,38,7,10,21,33,78,-45,31,0.82,
+Serie A,2021-2022,18,Cagliari,38,6,12,20,34,68,-34,30,0.79,Relegated
+Serie A,2021-2022,19,Genoa,38,4,16,18,27,60,-33,28,0.74,Relegated
+Serie A,2021-2022,20,Venezia,38,6,9,23,34,69,-35,27,0.71,Relegated
+Serie A,2022-2023,1,Napoli,38,28,6,4,77,28,49,90,2.37,→ Champions League via league finish
+Serie A,2022-2023,2,Lazio,38,22,8,8,60,30,30,74,1.95,→ Champions League via league finish
+Serie A,2022-2023,3,Inter,38,23,3,12,71,42,29,72,1.89,→ Champions League via league finish
+Serie A,2022-2023,4,Milan,38,20,10,8,64,43,21,70,1.84,→ Champions League via league finish
+Serie A,2022-2023,5,Atalanta,38,19,7,12,66,48,18,64,1.68,→ Europa League via league finish
+Serie A,2022-2023,6,Roma,38,18,9,11,50,38,12,63,1.66,→ Europa League via league finish
+Serie A,2022-2023,7,Juventus,38,22,6,10,56,33,23,62,1.63,"10-point deduction 1, → Europa Conference League via league finish"
+Serie A,2022-2023,8,Fiorentina,38,15,11,12,53,43,10,56,1.47,
+Serie A,2022-2023,9,Bologna,38,14,12,12,53,49,4,54,1.42,
+Serie A,2022-2023,10,Torino,38,14,11,13,42,41,1,53,1.39,
+Serie A,2022-2023,11,Monza,38,14,10,14,48,52,-4,52,1.37,
+Serie A,2022-2023,12,Udinese,38,11,13,14,47,48,-1,46,1.21,
+Serie A,2022-2023,13,Sassuolo,38,12,9,17,47,61,-14,45,1.18,
+Serie A,2022-2023,14,Empoli,38,10,13,15,37,49,-12,43,1.13,
+Serie A,2022-2023,15,Salernitana,38,9,15,14,48,62,-14,42,1.11,
+Serie A,2022-2023,16,Lecce,38,8,12,18,33,46,-13,36,0.95,
+Serie A,2022-2023,17,Spezia,38,6,13,19,31,62,-31,31,0.82,"Relegated, → Relegation tie-breaker"
+Serie A,2022-2023,18,Hellas Verona,38,7,10,21,31,59,-28,31,0.82,→ Relegation tie-breaker
+Serie A,2022-2023,19,Cremonese,38,5,12,21,36,69,-33,27,0.71,Relegated
+Serie A,2022-2023,20,Sampdoria,38,3,10,25,24,71,-47,19,0.5,Relegated
+Serie A,2023-2024,1,Inter,38,29,7,2,89,22,67,94,2.47,→ Champions League via league finish
+Serie A,2023-2024,2,Milan,38,22,9,7,76,49,27,75,1.97,→ Champions League via league finish
+Serie A,2023-2024,3,Juventus,38,19,14,5,54,31,23,71,1.87,→ Champions League via league finish
+Serie A,2023-2024,4,Atalanta,38,21,6,11,72,42,30,69,1.82,→ Champions League via league finish
+Serie A,2023-2024,5,Bologna,38,18,14,6,54,32,22,68,1.79,→ Champions League via league finish
+Serie A,2023-2024,6,Roma,38,18,9,11,65,46,19,63,1.66,→ Europa League via league finish
+Serie A,2023-2024,7,Lazio,38,18,7,13,49,39,10,61,1.61,→ Europa League via league finish
+Serie A,2023-2024,8,Fiorentina,38,17,9,12,61,46,15,60,1.58,→ Europa Conference League via league finish
+Serie A,2023-2024,9,Torino,38,13,14,11,36,36,0,53,1.39,
+Serie A,2023-2024,10,Napoli,38,13,14,11,55,48,7,53,1.39,
+Serie A,2023-2024,11,Genoa,38,12,13,13,45,45,0,49,1.29,
+Serie A,2023-2024,12,Monza,38,11,12,15,39,51,-12,45,1.18,
+Serie A,2023-2024,13,Hellas Verona,38,9,11,18,38,51,-13,38,1.0,
+Serie A,2023-2024,14,Lecce,38,8,14,16,32,54,-22,38,1.0,
+Serie A,2023-2024,15,Udinese,38,6,19,13,37,53,-16,37,0.97,
+Serie A,2023-2024,16,Cagliari,38,8,12,18,42,68,-26,36,0.95,
+Serie A,2023-2024,17,Empoli,38,9,9,20,29,54,-25,36,0.95,
+Serie A,2023-2024,18,Frosinone,38,8,11,19,44,69,-25,35,0.92,Relegated
+Serie A,2023-2024,19,Sassuolo,38,7,9,22,43,75,-32,30,0.79,Relegated
+Serie A,2023-2024,20,Salernitana,38,2,11,25,32,81,-49,17,0.45,Relegated
+Ligue 1,2010-2011,1,Lille,38,21,13,4,68,36,32,76,2.0,→ Champions League via league finish
+Ligue 1,2010-2011,2,Marseille,38,18,14,6,62,39,23,68,1.79,→ Champions League via league finish
+Ligue 1,2010-2011,3,Lyon,38,17,13,8,61,40,21,64,1.68,→ Champions League via league finish
+Ligue 1,2010-2011,4,Paris S-G,38,15,15,8,56,41,15,60,1.58,→ Europa League via league finish
+Ligue 1,2010-2011,5,Sochaux,38,17,7,14,60,43,17,58,1.53,→ Europa League via league finish 1
+Ligue 1,2010-2011,6,Rennes,38,15,11,12,38,35,3,56,1.47,→ Europa League via league finish 2
+Ligue 1,2010-2011,7,Bordeaux,38,12,15,11,43,42,1,51,1.34,
+Ligue 1,2010-2011,8,Toulouse,38,14,8,16,38,36,2,50,1.32,
+Ligue 1,2010-2011,9,Auxerre,38,10,19,9,45,41,4,49,1.29,
+Ligue 1,2010-2011,10,Saint-Étienne,38,12,13,13,46,47,-1,49,1.29,
+Ligue 1,2010-2011,11,Lorient,38,12,13,13,46,48,-2,49,1.29,
+Ligue 1,2010-2011,12,Valenciennes,38,10,18,10,45,41,4,48,1.26,
+Ligue 1,2010-2011,13,Nancy,38,13,9,16,43,48,-5,48,1.26,
+Ligue 1,2010-2011,14,Montpellier,38,12,11,15,32,43,-11,47,1.24,
+Ligue 1,2010-2011,15,Caen,38,11,13,14,46,51,-5,46,1.21,
+Ligue 1,2010-2011,16,Brest,38,11,13,14,36,43,-7,46,1.21,
+Ligue 1,2010-2011,17,Nice,38,11,13,14,33,48,-15,46,1.21,
+Ligue 1,2010-2011,18,Monaco,38,9,17,12,36,40,-4,44,1.16,Relegated
+Ligue 1,2010-2011,19,Lens,38,7,14,17,35,58,-23,35,0.92,Relegated
+Ligue 1,2010-2011,20,Arles-Avignon,38,3,11,24,21,70,-49,20,0.53,Relegated
+Ligue 1,2011-2012,1,Montpellier,38,25,7,6,68,34,34,82,2.16,→ Champions League via league finish
+Ligue 1,2011-2012,2,Paris S-G,38,23,10,5,75,41,34,79,2.08,→ Champions League via league finish
+Ligue 1,2011-2012,3,Lille,38,21,11,6,72,39,33,74,1.95,→ Champions League via league finish
+Ligue 1,2011-2012,4,Lyon,38,19,7,12,64,51,13,64,1.68,→ Europa League via cup win 1
+Ligue 1,2011-2012,5,Bordeaux,38,16,13,9,53,41,12,61,1.61,→ Europa League via league finish
+Ligue 1,2011-2012,6,Rennes,38,17,9,12,53,44,9,60,1.58,
+Ligue 1,2011-2012,7,Saint-Étienne,38,16,9,13,49,45,4,57,1.5,
+Ligue 1,2011-2012,8,Toulouse,38,15,11,12,37,34,3,56,1.47,
+Ligue 1,2011-2012,9,Evian,38,13,11,14,54,55,-1,50,1.32,
+Ligue 1,2011-2012,10,Marseille,38,12,12,14,45,41,4,48,1.26,→ Europa League via cup win 2
+Ligue 1,2011-2012,11,Nancy,38,11,12,15,38,48,-10,45,1.18,
+Ligue 1,2011-2012,12,Valenciennes,38,12,7,19,40,50,-10,43,1.13,
+Ligue 1,2011-2012,13,Nice,38,10,12,16,39,46,-7,42,1.11,
+Ligue 1,2011-2012,14,Sochaux,38,11,9,18,40,60,-20,42,1.11,
+Ligue 1,2011-2012,15,Brest,38,8,17,13,31,38,-7,41,1.08,
+Ligue 1,2011-2012,16,Ajaccio,38,9,14,15,40,61,-21,41,1.08,
+Ligue 1,2011-2012,17,Lorient,38,9,12,17,35,49,-14,39,1.03,
+Ligue 1,2011-2012,18,Caen,38,9,11,18,39,59,-20,38,1.0,Relegated
+Ligue 1,2011-2012,19,Dijon,38,9,9,20,38,63,-25,36,0.95,Relegated
+Ligue 1,2011-2012,20,Auxerre,38,7,13,18,46,57,-11,34,0.89,Relegated
+Ligue 1,2012-2013,1,Paris S-G,38,25,8,5,69,23,46,83,2.18,→ Champions League via league finish
+Ligue 1,2012-2013,2,Marseille,38,21,8,9,42,36,6,71,1.87,→ Champions League via league finish
+Ligue 1,2012-2013,3,Lyon,38,19,10,9,61,38,23,67,1.76,→ Champions League via league finish
+Ligue 1,2012-2013,4,Nice,38,18,10,10,57,46,11,64,1.68,→ Europa League via league finish
+Ligue 1,2012-2013,5,Saint-Étienne,38,16,15,7,60,32,28,63,1.66,→ Europa League via cup win 1
+Ligue 1,2012-2013,6,Lille,38,16,14,8,59,40,19,62,1.63,
+Ligue 1,2012-2013,7,Bordeaux,38,13,16,9,40,34,6,55,1.45,→ Europa League via cup win 2
+Ligue 1,2012-2013,8,Lorient,38,14,11,13,57,58,-1,53,1.39,
+Ligue 1,2012-2013,9,Montpellier,38,15,7,16,54,51,3,52,1.37,
+Ligue 1,2012-2013,10,Toulouse,38,13,12,13,49,47,2,51,1.34,
+Ligue 1,2012-2013,11,Valenciennes,38,12,12,14,49,53,-4,48,1.26,
+Ligue 1,2012-2013,12,Bastia,38,13,8,17,50,66,-16,47,1.24,
+Ligue 1,2012-2013,13,Rennes,38,13,7,18,48,59,-11,46,1.21,
+Ligue 1,2012-2013,14,Reims,38,10,13,15,33,42,-9,43,1.13,
+Ligue 1,2012-2013,15,Sochaux,38,10,11,17,41,57,-16,41,1.08,
+Ligue 1,2012-2013,16,Evian,38,10,10,18,46,53,-7,40,1.05,
+Ligue 1,2012-2013,17,Ajaccio,38,9,15,14,39,51,-12,40,1.05,2-point deduction 3
+Ligue 1,2012-2013,18,Nancy,38,9,11,18,38,58,-20,38,1.0,Relegated
+Ligue 1,2012-2013,19,Troyes,38,8,13,17,43,61,-18,37,0.97,Relegated
+Ligue 1,2012-2013,20,Brest,38,8,5,25,32,62,-30,29,0.76,Relegated
+Ligue 1,2013-2014,1,Paris S-G,38,27,8,3,84,23,61,89,2.34,→ Champions League via league finish
+Ligue 1,2013-2014,2,Monaco,38,23,11,4,63,31,32,80,2.11,→ Champions League via league finish
+Ligue 1,2013-2014,3,Lille,38,20,11,7,46,26,20,71,1.87,→ Champions League via league finish
+Ligue 1,2013-2014,4,Saint-Étienne,38,20,9,9,56,34,22,69,1.82,→ Europa League via league finish
+Ligue 1,2013-2014,5,Lyon,38,17,10,11,56,44,12,61,1.61,→ Europa League via league finish 1
+Ligue 1,2013-2014,6,Marseille,38,16,12,10,53,40,13,60,1.58,
+Ligue 1,2013-2014,7,Bordeaux,38,13,14,11,49,43,6,53,1.39,
+Ligue 1,2013-2014,8,Lorient,38,13,10,15,48,53,-5,49,1.29,
+Ligue 1,2013-2014,9,Toulouse,38,12,13,13,46,53,-7,49,1.29,
+Ligue 1,2013-2014,10,Bastia,38,13,10,15,42,56,-14,49,1.29,
+Ligue 1,2013-2014,11,Reims,38,12,12,14,44,52,-8,48,1.26,
+Ligue 1,2013-2014,12,Rennes,38,11,13,14,47,45,2,46,1.21,
+Ligue 1,2013-2014,13,Nantes,38,12,10,16,38,43,-5,46,1.21,
+Ligue 1,2013-2014,14,Evian,38,11,11,16,39,51,-12,44,1.16,
+Ligue 1,2013-2014,15,Montpellier,38,8,18,12,45,53,-8,42,1.11,
+Ligue 1,2013-2014,16,Guingamp,38,11,9,18,34,42,-8,42,1.11,→ Europa League via cup win 2
+Ligue 1,2013-2014,17,Nice,38,12,6,20,30,44,-14,42,1.11,
+Ligue 1,2013-2014,18,Sochaux,38,10,10,18,37,61,-24,40,1.05,Relegated
+Ligue 1,2013-2014,19,Valenciennes,38,7,8,23,37,65,-28,29,0.76,Relegated
+Ligue 1,2013-2014,20,Ajaccio,38,4,11,23,37,72,-35,23,0.61,Relegated
+Ligue 1,2014-2015,1,Paris S-G,38,24,11,3,83,36,47,83,2.18,→ Champions League via league finish
+Ligue 1,2014-2015,2,Lyon,38,22,9,7,72,33,39,75,1.97,→ Champions League via league finish
+Ligue 1,2014-2015,3,Monaco,38,20,11,7,51,26,25,71,1.87,→ Champions League via league finish
+Ligue 1,2014-2015,4,Marseille,38,21,6,11,76,42,34,69,1.82,→ Europa League via league finish 1
+Ligue 1,2014-2015,5,Saint-Étienne,38,19,12,7,51,30,21,69,1.82,→ Europa League via league finish 2
+Ligue 1,2014-2015,6,Bordeaux,38,17,12,9,47,44,3,63,1.66,→ Europa League via league finish
+Ligue 1,2014-2015,7,Montpellier,38,16,8,14,46,39,7,56,1.47,
+Ligue 1,2014-2015,8,Lille,38,16,8,14,43,42,1,56,1.47,
+Ligue 1,2014-2015,9,Rennes,38,13,11,14,35,42,-7,50,1.32,
+Ligue 1,2014-2015,10,Guingamp,38,15,4,19,41,55,-14,49,1.29,
+Ligue 1,2014-2015,11,Nice,38,13,9,16,44,53,-9,48,1.26,
+Ligue 1,2014-2015,12,Bastia,38,12,11,15,37,46,-9,47,1.24,
+Ligue 1,2014-2015,13,Caen,38,12,10,16,54,55,-1,46,1.21,
+Ligue 1,2014-2015,14,Nantes,38,11,12,15,29,40,-11,45,1.18,
+Ligue 1,2014-2015,15,Reims,38,12,8,18,47,66,-19,44,1.16,
+Ligue 1,2014-2015,16,Lorient,38,12,7,19,44,50,-6,43,1.13,
+Ligue 1,2014-2015,17,Toulouse,38,12,6,20,43,64,-21,42,1.11,
+Ligue 1,2014-2015,18,Evian,38,11,4,23,41,62,-21,37,0.97,Relegated
+Ligue 1,2014-2015,19,Metz,38,7,9,22,31,61,-30,30,0.79,Relegated
+Ligue 1,2014-2015,20,Lens,38,7,8,23,32,61,-29,29,0.76,Relegated
+Ligue 1,2015-2016,1,Paris S-G,38,30,6,2,102,19,83,96,2.53,→ Champions League via league finish
+Ligue 1,2015-2016,2,Lyon,38,19,8,11,67,43,24,65,1.71,→ Champions League via league finish
+Ligue 1,2015-2016,3,Monaco,38,17,14,7,57,50,7,65,1.71,→ Champions League via league finish
+Ligue 1,2015-2016,4,Nice,38,18,9,11,58,41,17,63,1.66,→ Europa League via league finish 1
+Ligue 1,2015-2016,5,Lille,38,15,15,8,39,27,12,60,1.58,→ Europa League via league finish 2
+Ligue 1,2015-2016,6,Saint-Étienne,38,17,7,14,42,37,5,58,1.53,→ Europa League via league finish
+Ligue 1,2015-2016,7,Caen,38,16,6,16,39,52,-13,54,1.42,
+Ligue 1,2015-2016,8,Rennes,38,13,13,12,52,54,-2,52,1.37,
+Ligue 1,2015-2016,9,Angers,38,13,11,14,40,38,2,50,1.32,
+Ligue 1,2015-2016,10,Bastia,38,14,8,16,36,42,-6,50,1.32,
+Ligue 1,2015-2016,11,Bordeaux,38,12,14,12,50,57,-7,50,1.32,
+Ligue 1,2015-2016,12,Montpellier,38,14,7,17,49,47,2,49,1.29,
+Ligue 1,2015-2016,13,Marseille,38,10,18,10,48,42,6,48,1.26,
+Ligue 1,2015-2016,14,Nantes,38,12,12,14,33,44,-11,48,1.26,
+Ligue 1,2015-2016,15,Lorient,38,11,13,14,47,58,-11,46,1.21,
+Ligue 1,2015-2016,16,Guingamp,38,11,11,16,47,56,-9,44,1.16,
+Ligue 1,2015-2016,17,Toulouse,38,9,13,16,45,55,-10,40,1.05,
+Ligue 1,2015-2016,18,Reims,38,10,9,19,44,57,-13,39,1.03,Relegated
+Ligue 1,2015-2016,19,Gazélec Ajaccio,38,8,13,17,37,58,-21,37,0.97,Relegated
+Ligue 1,2015-2016,20,Troyes,38,3,9,26,28,83,-55,18,0.47,Relegated
+Ligue 1,2016-2017,1,Monaco,38,30,5,3,107,31,76,95,2.5,→ Champions League via league finish
+Ligue 1,2016-2017,2,Paris S-G,38,27,6,5,83,27,56,87,2.29,→ Champions League via league finish
+Ligue 1,2016-2017,3,Nice,38,22,12,4,63,36,27,78,2.05,→ Champions League via league finish
+Ligue 1,2016-2017,4,Lyon,38,21,4,13,77,48,29,67,1.76,→ Europa League via league finish 1
+Ligue 1,2016-2017,5,Marseille,38,17,11,10,57,41,16,62,1.63,→ Europa League via league finish 2
+Ligue 1,2016-2017,6,Bordeaux,38,15,14,9,53,43,10,59,1.55,→ Europa League via league finish
+Ligue 1,2016-2017,7,Nantes,38,14,9,15,40,54,-14,51,1.34,
+Ligue 1,2016-2017,8,Saint-Étienne,38,12,14,12,41,42,-1,50,1.32,
+Ligue 1,2016-2017,9,Rennes,38,12,14,12,36,42,-6,50,1.32,
+Ligue 1,2016-2017,10,Guingamp,38,14,8,16,46,53,-7,50,1.32,
+Ligue 1,2016-2017,11,Lille,38,13,7,18,40,47,-7,46,1.21,
+Ligue 1,2016-2017,12,Angers,38,13,7,18,40,49,-9,46,1.21,
+Ligue 1,2016-2017,13,Toulouse,38,10,14,14,37,41,-4,44,1.16,
+Ligue 1,2016-2017,14,Metz,38,11,10,17,39,72,-33,43,1.13,
+Ligue 1,2016-2017,15,Montpellier,38,10,9,19,48,66,-18,39,1.03,
+Ligue 1,2016-2017,16,Dijon,38,8,13,17,46,58,-12,37,0.97,
+Ligue 1,2016-2017,17,Caen,38,10,7,21,36,65,-29,37,0.97,
+Ligue 1,2016-2017,18,Lorient,38,10,6,22,44,70,-26,36,0.95,→ French 1/2 Relegation/Promotion Playoffs
+Ligue 1,2016-2017,19,Nancy,38,9,8,21,29,52,-23,35,0.92,Relegated
+Ligue 1,2016-2017,20,Bastia,38,8,10,20,29,54,-25,34,0.89,Relegated 3
+Ligue 1,2017-2018,1,Paris S-G,38,29,6,3,108,29,79,93,2.45,→ Champions League via league finish
+Ligue 1,2017-2018,2,Monaco,38,24,8,6,85,45,40,80,2.11,→ Champions League via league finish
+Ligue 1,2017-2018,3,Lyon,38,23,9,6,87,43,44,78,2.05,→ Champions League via league finish
+Ligue 1,2017-2018,4,Marseille,38,22,11,5,80,47,33,77,2.03,→ Europa League via league finish
+Ligue 1,2017-2018,5,Rennes,38,16,10,12,50,44,6,58,1.53,→ Europa League via league finish 1
+Ligue 1,2017-2018,6,Bordeaux,38,16,7,15,53,48,5,55,1.45,→ Europa League via league finish 2
+Ligue 1,2017-2018,7,Saint-Étienne,38,15,10,13,47,50,-3,55,1.45,
+Ligue 1,2017-2018,8,Nice,38,15,9,14,53,52,1,54,1.42,
+Ligue 1,2017-2018,9,Nantes,38,14,10,14,36,41,-5,52,1.37,
+Ligue 1,2017-2018,10,Montpellier,38,11,18,9,36,33,3,51,1.34,
+Ligue 1,2017-2018,11,Dijon,38,13,9,16,55,73,-18,48,1.26,
+Ligue 1,2017-2018,12,Guingamp,38,12,11,15,48,59,-11,47,1.24,
+Ligue 1,2017-2018,13,Amiens,38,12,9,17,37,42,-5,45,1.18,
+Ligue 1,2017-2018,14,Angers,38,9,14,15,42,52,-10,41,1.08,
+Ligue 1,2017-2018,15,Strasbourg,38,9,11,18,44,67,-23,38,1.0,
+Ligue 1,2017-2018,16,Caen,38,10,8,20,27,52,-25,38,1.0,
+Ligue 1,2017-2018,17,Lille,38,10,8,20,41,67,-26,38,1.0,
+Ligue 1,2017-2018,18,Toulouse,38,9,10,19,38,54,-16,37,0.97,→ French 1/2 Relegation/Promotion Playoffs
+Ligue 1,2017-2018,19,Troyes,38,9,6,23,32,59,-27,33,0.87,Relegated
+Ligue 1,2017-2018,20,Metz,38,6,8,24,34,76,-42,26,0.68,Relegated
+Ligue 1,2018-2019,1,Paris S-G,38,29,4,5,105,35,70,91,2.39,→ Champions League via league finish
+Ligue 1,2018-2019,2,Lille,38,22,9,7,68,33,35,75,1.97,→ Champions League via league finish
+Ligue 1,2018-2019,3,Lyon,38,21,9,8,70,47,23,72,1.89,→ Champions League via league finish
+Ligue 1,2018-2019,4,Saint-Étienne,38,19,9,10,59,41,18,66,1.74,→ Europa League via league finish
+Ligue 1,2018-2019,5,Marseille,38,18,7,13,60,52,8,61,1.61,
+Ligue 1,2018-2019,6,Montpellier,38,15,14,9,53,42,11,59,1.55,
+Ligue 1,2018-2019,7,Nice,38,15,11,12,30,35,-5,56,1.47,
+Ligue 1,2018-2019,8,Reims,38,13,16,9,39,42,-3,55,1.45,
+Ligue 1,2018-2019,9,Nîmes,38,15,8,15,57,58,-1,53,1.39,
+Ligue 1,2018-2019,10,Rennes,38,13,13,12,55,52,3,52,1.37,→ Europa League via cup win 1
+Ligue 1,2018-2019,11,Strasbourg,38,11,16,11,58,48,10,49,1.29,→ Europa League via cup win 2
+Ligue 1,2018-2019,12,Nantes,38,13,9,16,48,48,0,48,1.26,
+Ligue 1,2018-2019,13,Angers,38,10,16,12,44,49,-5,46,1.21,
+Ligue 1,2018-2019,14,Bordeaux,38,10,11,17,34,42,-8,41,1.08,
+Ligue 1,2018-2019,15,Amiens,38,9,11,18,31,52,-21,38,1.0,
+Ligue 1,2018-2019,16,Toulouse,38,8,14,16,35,57,-22,38,1.0,
+Ligue 1,2018-2019,17,Monaco,38,8,12,18,38,57,-19,36,0.95,
+Ligue 1,2018-2019,18,Dijon,38,9,7,22,31,60,-29,34,0.89,→ French 1/2 Relegation/Promotion Playoffs
+Ligue 1,2018-2019,19,Caen,38,7,12,19,29,54,-25,33,0.87,Relegated
+Ligue 1,2018-2019,20,Guingamp,38,5,12,21,28,68,-40,27,0.71,Relegated
+Ligue 1,2019-2020,1,Paris S-G,27,22,2,3,75,24,51,68,2.52,→ Champions League via league finish
+Ligue 1,2019-2020,2,Marseille,28,16,8,4,41,29,12,56,2.0,→ Champions League via league finish
+Ligue 1,2019-2020,3,Rennes,28,15,5,8,38,24,14,50,1.79,→ Champions League via league finish
+Ligue 1,2019-2020,4,Lille,28,15,4,9,35,27,8,49,1.75,→ Europa League via league finish
+Ligue 1,2019-2020,5,Nice,28,11,8,9,41,38,3,41,1.46,→ Europa League via league finish
+Ligue 1,2019-2020,6,Reims,28,10,11,7,26,21,5,41,1.46,→ Europa League via league finish
+Ligue 1,2019-2020,7,Lyon,28,11,7,10,42,27,15,40,1.43,
+Ligue 1,2019-2020,8,Montpellier,28,11,7,10,35,34,1,40,1.43,
+Ligue 1,2019-2020,9,Monaco,28,11,7,10,44,44,0,40,1.43,
+Ligue 1,2019-2020,10,Strasbourg,27,11,5,11,32,32,0,38,1.41,
+Ligue 1,2019-2020,11,Angers,28,11,6,11,28,33,-5,39,1.39,
+Ligue 1,2019-2020,12,Bordeaux,28,9,10,9,40,34,6,37,1.32,
+Ligue 1,2019-2020,13,Nantes,28,11,4,13,28,31,-3,37,1.32,
+Ligue 1,2019-2020,14,Brest,28,8,10,10,34,37,-3,34,1.21,
+Ligue 1,2019-2020,15,Metz,28,8,10,10,27,35,-8,34,1.21,
+Ligue 1,2019-2020,16,Dijon,28,7,9,12,27,37,-10,30,1.07,
+Ligue 1,2019-2020,17,Saint-Étienne,28,8,6,14,29,45,-16,30,1.07,
+Ligue 1,2019-2020,18,Nîmes,28,7,6,15,29,44,-15,27,0.96,
+Ligue 1,2019-2020,19,Amiens,28,4,11,13,31,50,-19,23,0.82,Relegated
+Ligue 1,2019-2020,20,Toulouse,28,3,4,21,22,58,-36,13,0.46,Relegated
+Ligue 1,2020-2021,1,Lille,38,24,11,3,64,23,41,83,2.18,→ Champions League via league finish
+Ligue 1,2020-2021,2,Paris S-G,38,26,4,8,86,28,58,82,2.16,→ Champions League via league finish
+Ligue 1,2020-2021,3,Monaco,38,24,6,8,76,42,34,78,2.05,→ Champions League via league finish
+Ligue 1,2020-2021,4,Lyon,38,22,10,6,81,43,38,76,2.0,→ Europa League via league finish
+Ligue 1,2020-2021,5,Marseille,38,16,12,10,54,47,7,60,1.58,→ Europa League via league finish 1
+Ligue 1,2020-2021,6,Rennes,38,16,10,12,52,40,12,58,1.53,→ Europa Conference League via league finish
+Ligue 1,2020-2021,7,Lens,38,15,12,11,55,54,1,57,1.5,
+Ligue 1,2020-2021,8,Montpellier,38,14,12,12,60,62,-2,54,1.42,
+Ligue 1,2020-2021,9,Nice,38,15,7,16,50,53,-3,52,1.37,
+Ligue 1,2020-2021,10,Metz,38,12,11,15,44,48,-4,47,1.24,
+Ligue 1,2020-2021,11,Saint-Étienne,38,12,10,16,42,54,-12,46,1.21,
+Ligue 1,2020-2021,12,Bordeaux,38,13,6,19,42,56,-14,45,1.18,
+Ligue 1,2020-2021,13,Angers,38,12,8,18,40,58,-18,44,1.16,
+Ligue 1,2020-2021,14,Reims,38,9,15,14,42,50,-8,42,1.11,
+Ligue 1,2020-2021,15,Strasbourg,38,11,9,18,49,58,-9,42,1.11,
+Ligue 1,2020-2021,16,Lorient,38,11,9,18,50,68,-18,42,1.11,
+Ligue 1,2020-2021,17,Brest,38,11,8,19,50,66,-16,41,1.08,
+Ligue 1,2020-2021,18,Nantes,38,9,13,16,47,55,-8,40,1.05,→ French 1/2 Relegation/Promotion Playoff
+Ligue 1,2020-2021,19,Nîmes,38,9,8,21,40,71,-31,35,0.92,Relegated
+Ligue 1,2020-2021,20,Dijon,38,4,9,25,25,73,-48,21,0.55,Relegated
+Ligue 1,2021-2022,1,Paris S-G,38,26,8,4,90,36,54,86,2.26,→ Champions League via league finish
+Ligue 1,2021-2022,2,Marseille,38,21,8,9,63,38,25,71,1.87,→ Champions League via league finish
+Ligue 1,2021-2022,3,Monaco,38,20,9,9,65,40,25,69,1.82,→ Champions League via league finish
+Ligue 1,2021-2022,4,Rennes,38,20,6,12,82,40,42,66,1.74,→ Europa League via league finish
+Ligue 1,2021-2022,5,Nice,38,20,7,11,52,36,16,66,1.74,"1-point deduction 1, → Europa Conference League via league finish"
+Ligue 1,2021-2022,6,Strasbourg,38,17,12,9,60,43,17,63,1.66,
+Ligue 1,2021-2022,7,Lens,38,17,11,10,62,48,14,62,1.63,
+Ligue 1,2021-2022,8,Lyon,38,17,11,10,66,51,15,61,1.61,1-point deduction 2
+Ligue 1,2021-2022,9,Nantes,38,15,10,13,55,48,7,55,1.45,→ Europa League via cup win
+Ligue 1,2021-2022,10,Lille,38,14,13,11,48,48,0,55,1.45,
+Ligue 1,2021-2022,11,Brest,38,13,9,16,49,57,-8,48,1.26,
+Ligue 1,2021-2022,12,Reims,38,11,13,14,43,44,-1,46,1.21,
+Ligue 1,2021-2022,13,Montpellier,38,12,7,19,49,61,-12,43,1.13,
+Ligue 1,2021-2022,14,Angers,38,10,11,17,44,55,-11,41,1.08,
+Ligue 1,2021-2022,15,Troyes,38,9,11,18,37,53,-16,38,1.0,
+Ligue 1,2021-2022,16,Lorient,38,8,12,18,35,63,-28,36,0.95,
+Ligue 1,2021-2022,17,Clermont Foot,38,9,9,20,38,69,-31,36,0.95,
+Ligue 1,2021-2022,18,Saint-Étienne,38,7,11,20,42,77,-35,32,0.84,→ French 1/2 Relegation/Promotion Play-off
+Ligue 1,2021-2022,19,Metz,38,6,13,19,35,69,-34,31,0.82,Relegated
+Ligue 1,2021-2022,20,Bordeaux,38,6,13,19,52,91,-39,31,0.82,Relegated 3
+Ligue 1,2022-2023,1,Paris S-G,38,27,4,7,89,40,49,85,2.24,→ Champions League via league finish
+Ligue 1,2022-2023,2,Lens,38,25,9,4,68,29,39,84,2.21,→ Champions League via league finish
+Ligue 1,2022-2023,3,Marseille,38,22,7,9,67,40,27,73,1.92,→ Champions League via league finish
+Ligue 1,2022-2023,4,Rennes,38,21,5,12,69,39,30,68,1.79,→ Europa League via league finish
+Ligue 1,2022-2023,5,Lille,38,19,10,9,65,44,21,67,1.76,→ Europa Conference League via league finish
+Ligue 1,2022-2023,6,Monaco,38,19,8,11,70,58,12,65,1.71,
+Ligue 1,2022-2023,7,Lyon,38,18,8,12,65,47,18,62,1.63,
+Ligue 1,2022-2023,8,Clermont Foot,38,17,8,13,45,49,-4,59,1.55,
+Ligue 1,2022-2023,9,Nice,38,15,13,10,48,37,11,58,1.53,
+Ligue 1,2022-2023,10,Lorient,38,15,10,13,52,53,-1,55,1.45,
+Ligue 1,2022-2023,11,Reims,38,12,15,11,45,45,0,51,1.34,
+Ligue 1,2022-2023,12,Montpellier,38,15,5,18,65,62,3,50,1.32,
+Ligue 1,2022-2023,13,Toulouse,38,13,9,16,51,57,-6,48,1.26,→ Europa League via cup win
+Ligue 1,2022-2023,14,Brest,38,11,11,16,44,54,-10,44,1.16,
+Ligue 1,2022-2023,15,Strasbourg,38,9,13,16,51,59,-8,40,1.05,
+Ligue 1,2022-2023,16,Nantes,38,7,15,16,37,55,-18,36,0.95,
+Ligue 1,2022-2023,17,Auxerre,38,8,11,19,35,63,-28,35,0.92,Relegated
+Ligue 1,2022-2023,18,Ajaccio,38,7,5,26,23,74,-51,26,0.68,Relegated
+Ligue 1,2022-2023,19,Troyes,38,4,12,22,45,81,-36,24,0.63,Relegated
+Ligue 1,2022-2023,20,Angers,38,4,6,28,33,81,-48,18,0.47,Relegated
+Ligue 1,2023-2024,1,Paris S-G,34,22,10,2,81,33,48,76,2.24,→ Champions League via league finish
+Ligue 1,2023-2024,2,Monaco,34,20,7,7,68,42,26,67,1.97,→ Champions League via league finish
+Ligue 1,2023-2024,3,Brest,34,17,10,7,53,34,19,61,1.79,→ Champions League via league finish
+Ligue 1,2023-2024,4,Lille,34,16,11,7,52,34,18,59,1.74,→ Champions League via league finish
+Ligue 1,2023-2024,5,Nice,34,15,10,9,40,29,11,55,1.62,→ Europa League via league finish
+Ligue 1,2023-2024,6,Lyon,34,16,5,13,49,55,-6,53,1.56,→ Europa League via league finish
+Ligue 1,2023-2024,7,Lens,34,14,9,11,45,37,8,51,1.5,→ Europa Conference League via league finish
+Ligue 1,2023-2024,8,Marseille,34,13,11,10,52,41,11,50,1.47,
+Ligue 1,2023-2024,9,Reims,34,13,8,13,42,47,-5,47,1.38,
+Ligue 1,2023-2024,10,Rennes,34,12,10,12,53,46,7,46,1.35,
+Ligue 1,2023-2024,11,Toulouse,34,11,10,13,42,46,-4,43,1.26,
+Ligue 1,2023-2024,12,Montpellier,34,10,12,12,43,48,-5,41,1.21,1-point deduction 1
+Ligue 1,2023-2024,13,Strasbourg,34,10,9,15,38,50,-12,39,1.15,
+Ligue 1,2023-2024,14,Nantes,34,9,6,19,30,55,-25,33,0.97,
+Ligue 1,2023-2024,15,Le Havre,34,7,11,16,34,45,-11,32,0.94,
+Ligue 1,2023-2024,16,Metz,34,8,5,21,35,58,-23,29,0.85,→ French 1/2 Relegation/Promotion Play-off
+Ligue 1,2023-2024,17,Lorient,34,7,8,19,43,66,-23,29,0.85,Relegated
+Ligue 1,2023-2024,18,Clermont Foot,34,5,10,19,26,60,-34,25,0.74,Relegated
+MLS,2010-2011,1,NY Red Bulls,30,15,6,9,38,29,9,51,1.7,→ Conference Semifinals
+MLS,2010-2011,2,Columbus Crew,30,14,8,8,40,34,6,50,1.67,→ Conference Semifinals
+MLS,2010-2011,3,KC Wizards,30,11,6,13,36,35,1,39,1.3,
+MLS,2010-2011,4,Chicago Fire,30,9,9,12,37,38,-1,36,1.2,
+MLS,2010-2011,5,Toronto FC,30,9,8,13,33,41,-8,35,1.17,
+MLS,2010-2011,6,NE Revolution,30,9,5,16,32,50,-18,32,1.07,
+MLS,2010-2011,7,Philadelphia Union,30,8,7,15,35,49,-14,31,1.03,
+MLS,2010-2011,8,D.C. United,30,6,4,20,21,47,-26,22,0.73,
+MLS,2010-2011,1,LA Galaxy,30,18,5,7,44,26,18,59,1.97,→ Conference Semifinals
+MLS,2010-2011,2,Real Salt Lake,30,15,11,4,45,20,25,56,1.87,→ Conference Semifinals
+MLS,2010-2011,3,FC Dallas,30,12,14,4,42,28,14,50,1.67,→ Conference Semifinals
+MLS,2010-2011,4,Seattle Sounders,30,14,6,10,39,35,4,48,1.6,→ Conference Semifinals
+MLS,2010-2011,5,Colorado Rapids,30,12,10,8,44,32,12,46,1.53,→ Conference Semifinals
+MLS,2010-2011,6,SJ Earthquakes,30,13,7,10,34,33,1,46,1.53,→ Conference Semifinals
+MLS,2010-2011,7,Houston Dynamo,30,9,6,15,40,49,-9,33,1.1,
+MLS,2010-2011,8,Chivas USA,30,8,4,18,31,45,-14,28,0.93,
+MLS,2011-2012,1,Sporting KC,34,13,12,9,50,40,10,51,1.5,→ Conference Semifinals
+MLS,2011-2012,2,Houston Dynamo,34,12,13,9,45,41,4,49,1.44,→ Conference Semifinals
+MLS,2011-2012,3,Philadelphia Union,34,11,15,8,44,36,8,48,1.41,→ Conference Semifinals
+MLS,2011-2012,4,Columbus Crew,34,13,8,13,43,44,-1,47,1.38,→ Play-in round
+MLS,2011-2012,5,NY Red Bulls,34,10,16,8,50,44,6,46,1.35,→ Play-in round
+MLS,2011-2012,6,Chicago Fire,34,9,16,9,46,45,1,43,1.26,
+MLS,2011-2012,7,D.C. United,34,9,12,13,49,52,-3,39,1.15,
+MLS,2011-2012,8,Toronto FC,34,6,15,13,36,59,-23,33,0.97,
+MLS,2011-2012,9,NE Revolution,34,5,13,16,38,58,-20,28,0.82,
+MLS,2011-2012,1,LA Galaxy,34,19,10,5,48,28,20,67,1.97,→ Conference Semifinals
+MLS,2011-2012,2,Seattle Sounders,34,18,9,7,56,37,19,63,1.85,→ Conference Semifinals
+MLS,2011-2012,3,Real Salt Lake,34,15,8,11,44,36,8,53,1.56,→ Conference Semifinals
+MLS,2011-2012,4,FC Dallas,34,15,7,12,42,39,3,52,1.53,→ Play-in round
+MLS,2011-2012,5,Colorado Rapids,34,12,13,9,44,41,3,49,1.44,→ Play-in round
+MLS,2011-2012,6,Portland Timbers,34,11,9,14,40,48,-8,42,1.24,
+MLS,2011-2012,7,SJ Earthquakes,34,8,14,12,40,45,-5,38,1.12,
+MLS,2011-2012,8,Chivas USA,34,8,12,14,41,43,-2,36,1.06,
+MLS,2011-2012,9,Vancouver W'caps,34,6,10,18,35,55,-20,28,0.82,
+MLS,2012-2013,1,Sporting KC,34,18,9,7,42,27,15,63,1.85,→ Conference Semifinals
+MLS,2012-2013,2,D.C. United,34,17,7,10,53,43,10,58,1.71,→ Conference Semifinals
+MLS,2012-2013,3,NY Red Bulls,34,16,9,9,57,46,11,57,1.68,→ Conference Semifinals
+MLS,2012-2013,4,Chicago Fire,34,17,6,11,46,41,5,57,1.68,→ Knockout round
+MLS,2012-2013,5,Houston Dynamo,34,14,11,9,48,41,7,53,1.56,→ Knockout round
+MLS,2012-2013,6,Columbus Crew,34,15,7,12,44,44,0,52,1.53,
+MLS,2012-2013,7,Montreal Impact,34,12,6,16,45,51,-6,42,1.24,
+MLS,2012-2013,8,Philadelphia Union,34,10,6,18,37,45,-8,36,1.06,
+MLS,2012-2013,9,NE Revolution,34,9,8,17,39,44,-5,35,1.03,
+MLS,2012-2013,10,Toronto FC,34,5,8,21,36,62,-26,23,0.68,
+MLS,2012-2013,1,SJ Earthquakes,34,19,9,6,72,43,29,66,1.94,→ Conference Semifinals
+MLS,2012-2013,2,Real Salt Lake,34,17,6,11,46,35,11,57,1.68,→ Conference Semifinals
+MLS,2012-2013,3,Seattle Sounders,34,15,11,8,51,33,18,56,1.65,→ Conference Semifinals
+MLS,2012-2013,4,LA Galaxy,34,16,6,12,59,47,12,54,1.59,→ Knockout round
+MLS,2012-2013,5,Vancouver W'caps,34,11,10,13,35,41,-6,43,1.26,→ Knockout round
+MLS,2012-2013,6,FC Dallas,34,9,12,13,42,47,-5,39,1.15,
+MLS,2012-2013,7,Colorado Rapids,34,11,4,19,44,50,-6,37,1.09,
+MLS,2012-2013,8,Portland Timbers,34,8,10,16,34,56,-22,34,1.0,
+MLS,2012-2013,9,Chivas USA,34,7,9,18,24,58,-34,30,0.88,
+MLS,2013-2014,1,NY Red Bulls,34,17,8,9,58,41,17,59,1.74,→ Conference Semifinals
+MLS,2013-2014,2,Sporting KC,34,17,7,10,47,30,17,58,1.71,→ Conference Semifinals
+MLS,2013-2014,3,NE Revolution,34,14,9,11,49,38,11,51,1.5,→ Conference Semifinals
+MLS,2013-2014,4,Houston Dynamo,34,14,9,11,41,41,0,51,1.5,→ Knockout round
+MLS,2013-2014,5,Montreal Impact,34,14,7,13,50,49,1,49,1.44,→ Knockout round
+MLS,2013-2014,6,Chicago Fire,34,14,7,13,47,52,-5,49,1.44,
+MLS,2013-2014,7,Philadelphia Union,34,12,10,12,42,44,-2,46,1.35,
+MLS,2013-2014,8,Columbus Crew,34,12,5,17,42,46,-4,41,1.21,
+MLS,2013-2014,9,Toronto FC,34,6,11,17,30,47,-17,29,0.85,
+MLS,2013-2014,10,D.C. United,34,3,7,24,22,59,-37,16,0.47,
+MLS,2013-2014,1,Portland Timbers,34,14,15,5,54,33,21,57,1.68,→ Conference Semifinals
+MLS,2013-2014,2,Real Salt Lake,34,16,8,10,57,41,16,56,1.65,→ Conference Semifinals
+MLS,2013-2014,3,LA Galaxy,34,15,8,11,53,38,15,53,1.56,→ Conference Semifinals
+MLS,2013-2014,4,Seattle Sounders,34,15,7,12,42,42,0,52,1.53,→ Knockout round
+MLS,2013-2014,5,Colorado Rapids,34,14,9,11,45,38,7,51,1.5,→ Knockout round
+MLS,2013-2014,6,SJ Earthquakes,34,14,9,11,35,42,-7,51,1.5,
+MLS,2013-2014,7,Vancouver W'caps,34,13,9,12,53,45,8,48,1.41,
+MLS,2013-2014,8,FC Dallas,34,11,11,12,48,52,-4,44,1.29,
+MLS,2013-2014,9,Chivas USA,34,6,8,20,30,67,-37,26,0.76,
+MLS,2014-2015,1,D.C. United,34,17,8,9,52,37,15,59,1.74,→ Conference Semifinals
+MLS,2014-2015,2,NE Revolution,34,17,4,13,51,46,5,55,1.62,→ Conference Semifinals
+MLS,2014-2015,3,Columbus Crew,34,14,10,10,52,42,10,52,1.53,→ Conference Semifinals
+MLS,2014-2015,4,NY Red Bulls,34,13,11,10,55,50,5,50,1.47,→ Knockout round
+MLS,2014-2015,5,Sporting KC,34,14,7,13,48,41,7,49,1.44,→ Knockout round
+MLS,2014-2015,6,Philadelphia Union,34,10,12,12,51,51,0,42,1.24,
+MLS,2014-2015,7,Toronto FC,34,11,8,15,44,54,-10,41,1.21,
+MLS,2014-2015,8,Houston Dynamo,34,11,6,17,39,58,-19,39,1.15,
+MLS,2014-2015,9,Chicago Fire,34,6,18,10,41,51,-10,36,1.06,
+MLS,2014-2015,10,Montreal Impact,34,6,10,18,38,58,-20,28,0.82,
+MLS,2014-2015,1,Seattle Sounders,34,20,4,10,65,50,15,64,1.88,→ Conference Semifinals
+MLS,2014-2015,2,LA Galaxy,34,17,10,7,69,37,32,61,1.79,→ Conference Semifinals
+MLS,2014-2015,3,Real Salt Lake,34,15,11,8,54,39,15,56,1.65,→ Conference Semifinals
+MLS,2014-2015,4,FC Dallas,34,16,6,12,55,45,10,54,1.59,→ Knockout round
+MLS,2014-2015,5,Vancouver W'caps,34,12,14,8,42,40,2,50,1.47,→ Knockout round
+MLS,2014-2015,6,Portland Timbers,34,12,13,9,61,52,9,49,1.44,
+MLS,2014-2015,7,Chivas USA,34,9,6,19,29,61,-32,33,0.97,
+MLS,2014-2015,8,Colorado Rapids,34,8,8,18,43,62,-19,32,0.94,
+MLS,2014-2015,9,SJ Earthquakes,34,6,12,16,35,50,-15,30,0.88,
+MLS,2015-2016,1,NY Red Bulls,34,18,6,10,62,43,19,60,1.76,→ Conference Semifinals
+MLS,2015-2016,2,Columbus Crew,34,15,8,11,58,53,5,53,1.56,→ Conference Semifinals
+MLS,2015-2016,3,Montreal Impact,34,15,6,13,48,44,4,51,1.5,→ Knockout round
+MLS,2015-2016,4,D.C. United,34,15,6,13,43,45,-2,51,1.5,→ Knockout round
+MLS,2015-2016,5,NE Revolution,34,14,8,12,48,47,1,50,1.47,→ Knockout round
+MLS,2015-2016,6,Toronto FC,34,15,4,15,58,58,0,49,1.44,→ Knockout round
+MLS,2015-2016,7,Orlando City,34,12,8,14,46,56,-10,44,1.29,
+MLS,2015-2016,8,NYCFC,34,10,7,17,49,58,-9,37,1.09,
+MLS,2015-2016,9,Philadelphia Union,34,10,7,17,42,55,-13,37,1.09,
+MLS,2015-2016,10,Chicago Fire,34,8,6,20,43,58,-15,30,0.88,
+MLS,2015-2016,1,FC Dallas,34,18,6,10,52,39,13,60,1.76,→ Conference Semifinals
+MLS,2015-2016,2,Vancouver W'caps,34,16,5,13,45,36,9,53,1.56,→ Conference Semifinals
+MLS,2015-2016,3,Portland Timbers,34,15,8,11,41,39,2,53,1.56,→ Knockout round
+MLS,2015-2016,4,Seattle Sounders,34,15,6,13,44,36,8,51,1.5,→ Knockout round
+MLS,2015-2016,5,LA Galaxy,34,14,9,11,56,46,10,51,1.5,→ Knockout round
+MLS,2015-2016,6,Sporting KC,34,14,9,11,48,45,3,51,1.5,→ Knockout round
+MLS,2015-2016,7,SJ Earthquakes,34,13,8,13,41,39,2,47,1.38,
+MLS,2015-2016,8,Houston Dynamo,34,11,9,14,42,49,-7,42,1.24,
+MLS,2015-2016,9,Real Salt Lake,34,11,8,15,38,48,-10,41,1.21,
+MLS,2015-2016,10,Colorado Rapids,34,9,10,15,33,43,-10,37,1.09,
+MLS,2016-2017,1,NY Red Bulls,34,16,9,9,61,44,17,57,1.68,→ Conference Semifinals
+MLS,2016-2017,2,NYCFC,34,15,9,10,62,57,5,54,1.59,→ Conference Semifinals
+MLS,2016-2017,3,Toronto FC,34,14,11,9,51,39,12,53,1.56,→ Knockout round
+MLS,2016-2017,4,D.C. United,34,11,13,10,53,47,6,46,1.35,→ Knockout round
+MLS,2016-2017,5,Montreal Impact,34,11,12,11,49,53,-4,45,1.32,→ Knockout round
+MLS,2016-2017,6,Philadelphia Union,34,11,9,14,52,55,-3,42,1.24,→ Knockout round
+MLS,2016-2017,7,NE Revolution,34,11,9,14,44,54,-10,42,1.24,
+MLS,2016-2017,8,Orlando City,34,9,14,11,55,60,-5,41,1.21,
+MLS,2016-2017,9,Columbus Crew,34,8,12,14,50,58,-8,36,1.06,
+MLS,2016-2017,10,Chicago Fire,34,7,10,17,42,58,-16,31,0.91,
+MLS,2016-2017,1,FC Dallas,34,17,9,8,50,40,10,60,1.76,→ Conference Semifinals
+MLS,2016-2017,2,Colorado Rapids,34,15,13,6,39,32,7,58,1.71,→ Conference Semifinals
+MLS,2016-2017,3,LA Galaxy,34,12,16,6,54,39,15,52,1.53,→ Knockout round
+MLS,2016-2017,4,Seattle Sounders,34,14,6,14,44,43,1,48,1.41,→ Knockout round
+MLS,2016-2017,5,Sporting KC,34,13,8,13,42,41,1,47,1.38,→ Knockout round
+MLS,2016-2017,6,Real Salt Lake,34,12,10,12,44,46,-2,46,1.35,→ Knockout round
+MLS,2016-2017,7,Portland Timbers,34,12,8,14,48,53,-5,44,1.29,
+MLS,2016-2017,8,Vancouver W'caps,34,10,9,15,45,52,-7,39,1.15,
+MLS,2016-2017,9,SJ Earthquakes,34,8,14,12,32,40,-8,38,1.12,
+MLS,2016-2017,10,Houston Dynamo,34,7,13,14,39,45,-6,34,1.0,
+MLS,2017-2018,1,Toronto FC,34,20,9,5,74,37,37,69,2.03,→ Conference Semifinals
+MLS,2017-2018,2,NYCFC,34,16,9,9,56,43,13,57,1.68,→ Conference Semifinals
+MLS,2017-2018,3,Chicago Fire,34,16,7,11,61,47,14,55,1.62,→ Knockout round
+MLS,2017-2018,4,Atlanta Utd,34,15,10,9,70,40,30,55,1.62,→ Knockout round
+MLS,2017-2018,5,Columbus Crew,34,16,6,12,53,49,4,54,1.59,→ Knockout round
+MLS,2017-2018,6,NY Red Bulls,34,14,8,12,53,47,6,50,1.47,→ Knockout round
+MLS,2017-2018,7,NE Revolution,34,13,6,15,53,61,-8,45,1.32,
+MLS,2017-2018,8,Philadelphia Union,34,11,9,14,50,47,3,42,1.24,
+MLS,2017-2018,9,Montreal Impact,34,11,6,17,52,58,-6,39,1.15,
+MLS,2017-2018,10,Orlando City,34,10,9,15,39,58,-19,39,1.15,
+MLS,2017-2018,11,D.C. United,34,9,5,20,31,60,-29,32,0.94,
+MLS,2017-2018,1,Portland Timbers,34,15,8,11,60,50,10,53,1.56,→ Conference Semifinals
+MLS,2017-2018,2,Seattle Sounders,34,14,11,9,52,39,13,53,1.56,→ Conference Semifinals
+MLS,2017-2018,3,Vancouver W'caps,34,15,7,12,50,49,1,52,1.53,→ Knockout round
+MLS,2017-2018,4,Houston Dynamo,34,13,11,10,57,45,12,50,1.47,→ Knockout round
+MLS,2017-2018,5,Sporting KC,34,12,13,9,40,29,11,49,1.44,→ Knockout round
+MLS,2017-2018,6,SJ Earthquakes,34,13,7,14,39,60,-21,46,1.35,→ Knockout round
+MLS,2017-2018,7,FC Dallas,34,11,13,10,48,48,0,46,1.35,
+MLS,2017-2018,8,Real Salt Lake,34,13,6,15,49,55,-6,45,1.32,
+MLS,2017-2018,9,Minnesota Utd,34,10,6,18,47,70,-23,36,1.06,
+MLS,2017-2018,10,Colorado Rapids,34,9,6,19,31,51,-20,33,0.97,
+MLS,2017-2018,11,LA Galaxy,34,8,8,18,45,67,-22,32,0.94,
+MLS,2018-2019,1,NY Red Bulls,34,22,5,7,62,33,29,71,2.09,→ Conference Semifinals
+MLS,2018-2019,2,Atlanta Utd,34,21,6,7,70,44,26,69,2.03,→ Conference Semifinals
+MLS,2018-2019,3,NYCFC,34,16,8,10,59,45,14,56,1.65,→ Knockout round
+MLS,2018-2019,4,D.C. United,34,14,9,11,60,50,10,51,1.5,→ Knockout round
+MLS,2018-2019,5,Columbus Crew,34,14,9,11,43,45,-2,51,1.5,→ Knockout round
+MLS,2018-2019,6,Philadelphia Union,34,15,5,14,49,50,-1,50,1.47,→ Knockout round
+MLS,2018-2019,7,Montreal Impact,34,14,4,16,47,53,-6,46,1.35,
+MLS,2018-2019,8,NE Revolution,34,10,11,13,49,55,-6,41,1.21,
+MLS,2018-2019,9,Toronto FC,34,10,6,18,59,64,-5,36,1.06,
+MLS,2018-2019,10,Chicago Fire,34,8,8,18,48,61,-13,32,0.94,
+MLS,2018-2019,11,Orlando City,34,8,4,22,43,74,-31,28,0.82,
+MLS,2018-2019,1,Sporting KC,34,18,8,8,65,40,25,62,1.82,→ Conference Semifinals
+MLS,2018-2019,2,Seattle Sounders,34,18,5,11,52,37,15,59,1.74,→ Conference Semifinals
+MLS,2018-2019,3,LAFC,34,16,9,9,68,52,16,57,1.68,→ Knockout round
+MLS,2018-2019,4,FC Dallas,34,16,9,9,52,44,8,57,1.68,→ Knockout round
+MLS,2018-2019,5,Portland Timbers,34,15,9,10,54,48,6,54,1.59,→ Knockout round
+MLS,2018-2019,6,Real Salt Lake,34,14,7,13,55,58,-3,49,1.44,→ Knockout round
+MLS,2018-2019,7,LA Galaxy,34,13,9,12,66,64,2,48,1.41,
+MLS,2018-2019,8,Vancouver W'caps,34,13,8,13,54,67,-13,47,1.38,
+MLS,2018-2019,9,Houston Dynamo,34,10,8,16,58,58,0,38,1.12,
+MLS,2018-2019,10,Minnesota Utd,34,11,3,20,49,71,-22,36,1.06,
+MLS,2018-2019,11,Colorado Rapids,34,8,7,19,36,63,-27,31,0.91,
+MLS,2018-2019,12,SJ Earthquakes,34,4,9,21,49,71,-22,21,0.62,
+MLS,2019-2020,1,NYCFC,34,18,10,6,63,42,21,64,1.88,→ Conference Semifinals
+MLS,2019-2020,2,Atlanta Utd,34,18,4,12,58,43,15,58,1.71,→ Round 1
+MLS,2019-2020,3,Philadelphia Union,34,16,7,11,58,50,8,55,1.62,→ Round 1
+MLS,2019-2020,4,Toronto FC,34,13,11,10,57,52,5,50,1.47,→ Round 1
+MLS,2019-2020,5,D.C. United,34,13,11,10,42,38,4,50,1.47,→ Round 1
+MLS,2019-2020,6,NY Red Bulls,34,14,6,14,53,51,2,48,1.41,→ Round 1
+MLS,2019-2020,7,NE Revolution,34,11,12,11,50,57,-7,45,1.32,→ Round 1
+MLS,2019-2020,8,Chicago Fire,34,10,12,12,55,47,8,42,1.24,
+MLS,2019-2020,9,Montreal Impact,34,12,5,17,47,60,-13,41,1.21,
+MLS,2019-2020,10,Columbus Crew,34,10,8,16,39,47,-8,38,1.12,
+MLS,2019-2020,11,Orlando City,34,9,10,15,44,52,-8,37,1.09,
+MLS,2019-2020,12,FC Cincinnati,34,6,6,22,31,75,-44,24,0.71,
+MLS,2019-2020,1,LAFC,34,21,9,4,85,37,48,72,2.12,→ Conference Semifinals
+MLS,2019-2020,2,Seattle Sounders,34,16,8,10,52,49,3,56,1.65,→ Round 1
+MLS,2019-2020,3,Real Salt Lake,34,16,5,13,46,41,5,53,1.56,→ Round 1
+MLS,2019-2020,4,Minnesota Utd,34,15,8,11,52,43,9,53,1.56,→ Round 1
+MLS,2019-2020,5,LA Galaxy,34,16,3,15,58,59,-1,51,1.5,→ Round 1
+MLS,2019-2020,6,Portland Timbers,34,14,7,13,52,49,3,49,1.44,→ Round 1
+MLS,2019-2020,7,FC Dallas,34,13,9,12,54,46,8,48,1.41,→ Round 1
+MLS,2019-2020,8,SJ Earthquakes,34,13,5,16,52,55,-3,44,1.29,
+MLS,2019-2020,9,Colorado Rapids,34,12,6,16,58,63,-5,42,1.24,
+MLS,2019-2020,10,Houston Dynamo,34,12,4,18,49,59,-10,40,1.18,
+MLS,2019-2020,11,Sporting KC,34,10,8,16,49,67,-18,38,1.12,
+MLS,2019-2020,12,Vancouver W'caps,34,8,10,16,37,59,-22,34,1.0,
+MLS,2020-2021,1,Philadelphia Union,23,14,5,4,44,20,24,47,2.04,→ First Round
+MLS,2020-2021,2,Toronto FC,23,13,5,5,33,26,7,44,1.91,→ First Round
+MLS,2020-2021,3,Columbus Crew,23,12,5,6,36,21,15,41,1.78,→ First Round
+MLS,2020-2021,4,Orlando City,23,11,8,4,40,25,15,41,1.78,→ First Round
+MLS,2020-2021,5,NYCFC,23,12,3,8,37,25,12,39,1.7,→ First Round
+MLS,2020-2021,6,NY Red Bulls,23,9,5,9,29,31,-2,32,1.39,→ First Round
+MLS,2020-2021,7,Nashville SC,23,8,8,7,24,22,2,32,1.39,→ Play-In Round
+MLS,2020-2021,8,NE Revolution,23,8,8,7,26,25,1,32,1.39,→ Play-In Round
+MLS,2020-2021,9,Montreal Impact,23,8,2,13,33,43,-10,26,1.13,→ Play-In Round
+MLS,2020-2021,10,Inter Miami,23,7,3,13,25,35,-10,24,1.04,→ Play-In Round
+MLS,2020-2021,11,Chicago Fire,23,5,8,10,33,39,-6,23,1.0,
+MLS,2020-2021,12,Atlanta Utd,23,6,4,13,23,30,-7,22,0.96,
+MLS,2020-2021,13,D.C. United,23,5,6,12,25,41,-16,21,0.91,
+MLS,2020-2021,14,FC Cincinnati,23,4,4,15,12,36,-24,16,0.7,
+MLS,2020-2021,1,Sporting KC,21,12,3,6,38,25,13,39,1.86,→ First Round
+MLS,2020-2021,2,Seattle Sounders,22,11,6,5,44,23,21,39,1.77,→ First Round
+MLS,2020-2021,3,Portland Timbers,23,11,6,6,46,35,11,39,1.7,→ First Round
+MLS,2020-2021,4,Minnesota Utd,21,9,7,5,36,26,10,34,1.62,→ First Round
+MLS,2020-2021,5,FC Dallas,22,9,7,6,28,24,4,34,1.55,→ First Round
+MLS,2020-2021,6,LAFC,22,9,5,8,47,39,8,32,1.45,→ First Round
+MLS,2020-2021,7,SJ Earthquakes,23,8,6,9,35,51,-16,30,1.3,→ First Round
+MLS,2020-2021,8,Colorado Rapids,18,8,4,6,32,28,4,28,1.56,→ First Round
+MLS,2020-2021,9,Vancouver W'caps,23,9,0,14,27,44,-17,27,1.17,
+MLS,2020-2021,10,LA Galaxy,22,6,4,12,27,46,-19,22,1.0,
+MLS,2020-2021,11,Real Salt Lake,22,5,7,10,25,35,-10,22,1.0,
+MLS,2020-2021,12,Houston Dynamo,23,4,9,10,30,40,-10,21,0.91,
+MLS,2021-2022,1,NE Revolution,34,22,7,5,65,41,24,73,2.15,→ Conference Semifinals
+MLS,2021-2022,2,Philadelphia Union,34,14,12,8,48,35,13,54,1.59,→ First Round
+MLS,2021-2022,3,Nashville SC,34,12,18,4,55,33,22,54,1.59,→ First Round
+MLS,2021-2022,4,NYCFC,34,14,9,11,56,36,20,51,1.5,→ First Round
+MLS,2021-2022,5,Atlanta Utd,34,13,12,9,45,37,8,51,1.5,→ First Round
+MLS,2021-2022,6,Orlando City,34,13,12,9,50,48,2,51,1.5,→ First Round
+MLS,2021-2022,7,NY Red Bulls,34,13,9,12,39,33,6,48,1.41,→ First Round
+MLS,2021-2022,8,D.C. United,34,14,5,15,56,54,2,47,1.38,
+MLS,2021-2022,9,Columbus Crew,34,13,8,13,46,45,1,47,1.38,
+MLS,2021-2022,10,CF Montréal,34,12,10,12,46,44,2,46,1.35,
+MLS,2021-2022,11,Inter Miami,34,12,5,17,36,53,-17,41,1.21,
+MLS,2021-2022,12,Chicago Fire,34,9,7,18,36,54,-18,34,1.0,
+MLS,2021-2022,13,Toronto FC,34,6,10,18,39,66,-27,28,0.82,
+MLS,2021-2022,14,FC Cincinnati,34,4,8,22,37,74,-37,20,0.59,
+MLS,2021-2022,1,Colorado Rapids,34,17,10,7,51,35,16,61,1.79,→ Conference Semifinals
+MLS,2021-2022,2,Seattle Sounders,34,17,9,8,53,33,20,60,1.76,→ First Round
+MLS,2021-2022,3,Sporting KC,34,17,7,10,58,40,18,58,1.71,→ First Round
+MLS,2021-2022,4,Portland Timbers,34,17,4,13,56,52,4,55,1.62,→ First Round
+MLS,2021-2022,5,Minnesota Utd,34,13,10,11,42,44,-2,49,1.44,→ First Round
+MLS,2021-2022,6,Vancouver W'caps,34,12,13,9,45,45,0,49,1.44,→ First Round
+MLS,2021-2022,7,Real Salt Lake,34,14,6,14,55,54,1,48,1.41,→ First Round
+MLS,2021-2022,8,LA Galaxy,34,13,9,12,50,54,-4,48,1.41,
+MLS,2021-2022,9,LAFC,34,12,9,13,53,51,2,45,1.32,
+MLS,2021-2022,10,SJ Earthquakes,34,10,11,13,46,54,-8,41,1.21,
+MLS,2021-2022,11,FC Dallas,34,7,12,15,47,56,-9,33,0.97,
+MLS,2021-2022,12,Austin,34,9,4,21,35,56,-21,31,0.91,
+MLS,2021-2022,13,Houston Dynamo,34,6,12,16,36,54,-18,30,0.88,
+MLS,2022-2023,1,Philadelphia Union,34,19,10,5,72,26,46,67,1.97,→ Conference Semifinals
+MLS,2022-2023,2,CF Montréal,34,20,5,9,63,50,13,65,1.91,→ First Round
+MLS,2022-2023,3,NYCFC,34,16,7,11,57,41,16,55,1.62,→ First Round
+MLS,2022-2023,4,NY Red Bulls,34,15,8,11,50,41,9,53,1.56,→ First Round
+MLS,2022-2023,5,FC Cincinnati,34,12,13,9,64,56,8,49,1.44,→ First Round
+MLS,2022-2023,6,Inter Miami,34,14,6,14,47,56,-9,48,1.41,→ First Round
+MLS,2022-2023,7,Orlando City,34,14,6,14,44,53,-9,48,1.41,→ First Round
+MLS,2022-2023,8,Columbus Crew,34,10,16,8,46,41,5,46,1.35,
+MLS,2022-2023,9,Charlotte,34,13,3,18,44,52,-8,42,1.24,
+MLS,2022-2023,10,NE Revolution,34,10,12,12,47,50,-3,42,1.24,
+MLS,2022-2023,11,Atlanta Utd,34,10,10,14,48,54,-6,40,1.18,
+MLS,2022-2023,12,Chicago Fire,34,10,9,15,39,48,-9,39,1.15,
+MLS,2022-2023,13,Toronto FC,34,9,7,18,49,66,-17,34,1.0,
+MLS,2022-2023,14,D.C. United,34,7,6,21,36,71,-35,27,0.79,
+MLS,2022-2023,1,LAFC,34,21,4,9,66,38,28,67,1.97,→ Conference Semifinals
+MLS,2022-2023,2,Austin,34,16,8,10,65,49,16,56,1.65,→ First Round
+MLS,2022-2023,3,FC Dallas,34,14,11,9,48,37,11,53,1.56,→ First Round
+MLS,2022-2023,4,LA Galaxy,34,14,8,12,58,51,7,50,1.47,→ First Round
+MLS,2022-2023,5,Nashville SC,34,13,11,10,52,41,11,50,1.47,→ First Round
+MLS,2022-2023,6,Minnesota Utd,34,14,6,14,48,51,-3,48,1.41,→ First Round
+MLS,2022-2023,7,Real Salt Lake,34,12,11,11,43,45,-2,47,1.38,→ First Round
+MLS,2022-2023,8,Portland Timbers,34,11,13,10,53,53,0,46,1.35,
+MLS,2022-2023,9,Vancouver W'caps,34,12,7,15,40,57,-17,43,1.26,
+MLS,2022-2023,10,Colorado Rapids,34,11,10,13,46,57,-11,43,1.26,
+MLS,2022-2023,11,Seattle Sounders,34,12,5,17,47,46,1,41,1.21,
+MLS,2022-2023,12,Sporting KC,34,11,7,16,42,54,-12,40,1.18,
+MLS,2022-2023,13,Houston Dynamo,34,10,6,18,43,56,-13,36,1.06,
+MLS,2022-2023,14,SJ Earthquakes,34,8,11,15,52,69,-17,35,1.03,
+MLS,2023-2024,1,FC Cincinnati,34,20,9,5,57,39,18,69,2.03,→ Round One
+MLS,2023-2024,2,Orlando City,34,18,9,7,55,39,16,63,1.85,→ Round One
+MLS,2023-2024,3,Columbus Crew,34,16,9,9,67,46,21,57,1.68,→ Round One
+MLS,2023-2024,4,Philadelphia Union,34,15,10,9,57,41,16,55,1.62,→ Round One
+MLS,2023-2024,5,NE Revolution,34,15,10,9,58,46,12,55,1.62,→ Round One
+MLS,2023-2024,6,Atlanta Utd,34,13,12,9,66,53,13,51,1.5,→ Round One
+MLS,2023-2024,7,Nashville SC,34,13,10,11,39,32,7,49,1.44,→ Round One
+MLS,2023-2024,8,NY Red Bulls,34,11,10,13,36,39,-3,43,1.26,→ Wild Card Round
+MLS,2023-2024,9,Charlotte,34,10,13,11,45,52,-7,43,1.26,→ Wild Card Round
+MLS,2023-2024,10,CF Montréal,34,12,5,17,36,52,-16,41,1.21,
+MLS,2023-2024,11,NYCFC,34,9,14,11,35,39,-4,41,1.21,
+MLS,2023-2024,12,D.C. United,34,10,10,14,45,49,-4,40,1.18,
+MLS,2023-2024,13,Chicago Fire,34,10,10,14,39,51,-12,40,1.18,
+MLS,2023-2024,14,Inter Miami,34,9,7,18,41,54,-13,34,1.0,
+MLS,2023-2024,15,Toronto FC,34,4,10,20,26,59,-33,22,0.65,
+MLS,2023-2024,1,St. Louis,34,17,5,12,62,45,17,56,1.65,→ Round One
+MLS,2023-2024,2,Seattle Sounders,34,14,11,9,41,32,9,53,1.56,→ Round One
+MLS,2023-2024,3,LAFC,34,14,10,10,54,39,15,52,1.53,→ Round One
+MLS,2023-2024,4,Houston Dynamo,34,14,9,11,51,38,13,51,1.5,→ Round One
+MLS,2023-2024,5,Real Salt Lake,34,14,8,12,48,50,-2,50,1.47,→ Round One
+MLS,2023-2024,6,Vancouver W'caps,34,12,12,10,55,48,7,48,1.41,→ Round One
+MLS,2023-2024,7,FC Dallas,34,11,13,10,41,37,4,46,1.35,→ Round One
+MLS,2023-2024,8,Sporting KC,34,12,8,14,48,51,-3,44,1.29,→ Wild Card Round
+MLS,2023-2024,9,SJ Earthquakes,34,10,14,10,39,43,-4,44,1.29,→ Wild Card Round
+MLS,2023-2024,10,Portland Timbers,34,11,10,13,46,58,-12,43,1.26,
+MLS,2023-2024,11,Minnesota Utd,34,10,11,13,46,51,-5,41,1.21,
+MLS,2023-2024,12,Austin,34,10,9,15,49,55,-6,39,1.15,
+MLS,2023-2024,13,LA Galaxy,34,8,12,14,51,67,-16,36,1.06,
+MLS,2023-2024,14,Colorado Rapids,34,5,12,17,26,54,-28,27,0.79,
