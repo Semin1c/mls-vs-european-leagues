@@ -51,7 +51,7 @@ So the leagues are balanced differently. Do they play differently?
 
 MLS clubs win **25.5 percentage points** more often at home than away. The widest European gap is La Liga's 18.3; the other four sit between 13 and 15. MLS isn't at the edge of the European range, it's outside it.
 
-Travel is the obvious explanation — an MLS road trip can mean crossing a continent and three time zones, where a Premier League away day is a coach ride. This data can't confirm that. Distance and rest days aren't in the file, so travel stays a plausible hypothesis rather than a demonstrated cause.
+Travel could be an obvious explanation. A MLS road trip can mean crossing a continent and three time zones, where a Premier League away day is a coach ride. This data can't confirm that. Distance and rest days aren't in the file, so travel stays a plausible hypothesis rather than a demonstrated cause.
 
 Matches also stay close more often: 40.0% of MLS matches are decided by a single goal against 37.2% in the big five. That's the balance finding showing up again, match by match instead of in the final table.
 
@@ -65,8 +65,6 @@ But MLS plays 34 matches a season, and four of the five European leagues play 38
 
 - **Goals.** MLS scores **1.328 a match** against a European average of **1.332**. Essentially identical. MLS ranks third of the six, behind only the Bundesliga (1.464) and the Premier League (1.346), and ahead of Serie A, La Liga and Ligue 1.
 - **Yellow cards.** MLS takes **1.76 a match**, close to the Premier League's 1.72 and Ligue 1's 1.78. The European average of 2.08 is pulled up by two outliers: La Liga at **2.65** and Serie A at **2.35**, which book far more than anyone else.
-
-Neither is an MLS story. One is a calendar artefact; the other is about Southern European refereeing.
 
 ## Finding 3: league context is baked into the numbers
 
@@ -99,7 +97,7 @@ Two changes:
 
 ![Classification AUC by feature set](figures/model_auc.png)
 
-Corrected, it reaches **AUC 0.954** and correctly identifies **92% of MLS team-seasons**. So the answer to the original question is yes, and firmly: the leagues are highly distinguishable from performance data alone. The original accuracy figure just wasn't the evidence for it, and would have looked nearly as good on a model that learned nothing.
+After the improvement it reaches **AUC 0.954** and correctly identifies **92% of MLS team-seasons**. So the answer to the original question is yes, and firmly: the leagues are highly distinguishable from performance data alone. The original accuracy figure just wasn't the evidence for it, and would have looked nearly as good on a model that learned nothing.
 
 It survives a harder test too. The same clubs recur across fourteen seasons, so random splits let a model recognise familiar teams rather than league patterns. Holding out whole clubs it scores **0.953**; whole seasons, **0.942**.
 
@@ -136,9 +134,7 @@ Those coefficients need care. The feature set contains near-duplicates (`goals`,
 
 ## Where this started
 
-A solo mini-project comparing competitiveness between Europe's big five and MLS. The data assembly is what made everything above possible — fourteen seasons of standings, squad stats and fixtures across six leagues, merged into one clean team-season table.
-
-It opened with an assumption stated plainly on slide two: *"European Leagues are inherently more competitive than MLS."* The target variable was coded from it, MLS = 0. Going back and testing that assumption instead of building on it is what produced all of this. The original deck had already noticed that "MLS teams show more parity and variability" — buried under a framing that assumed the opposite. It's in `original-project/`.
+A solo mini-project comparing competitiveness between Europe's big five and MLS. The data assembly is what made everything above possible — fourteen seasons of standings, squad stats and fixtures across six leagues, merged into one clean team-season table. It opened with an assumption stated plainly on slide two: *"European Leagues are inherently more competitive than MLS."* The target variable was coded from it, MLS = 0. Going back and testing that assumption instead of building on it is what produced all of this. The original deck had already noticed that "MLS teams show more parity and variability" — buried under a framing that assumed the opposite. It's in `original-project/`.
 
 ## Running it
 
@@ -147,7 +143,3 @@ pip install -r requirements.txt
 python3 make_balance_figure.py
 python3 make_model_figures.py
 ```
-
-Both print every number quoted above and regenerate the figures from the committed data. `soccer_competitiveness_analysis.ipynb` holds the full modelling pipeline.
-
-Solo project from my master's at USC.
