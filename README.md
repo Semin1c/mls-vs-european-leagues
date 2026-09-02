@@ -51,7 +51,7 @@ So the leagues are balanced differently. Do they play differently?
 
 MLS clubs win **25.5 percentage points** more often at home than away. The widest European gap is La Liga's 18.3; the other four sit between 13 and 15. MLS isn't at the edge of the European range, it's outside it.
 
-Travel could be an obvious explanation. A MLS road trip can mean crossing a continent and three time zones, where a Premier League away day is a coach ride. This data can't confirm that. Distance and rest days aren't in the file, so travel stays a plausible hypothesis rather than a demonstrated cause.
+Travel could be an obvious explanation. An MLS road trip can mean crossing a continent and three time zones, where a Premier League away day is a coach ride. This data can't confirm that. Distance and rest days aren't in the file, so travel stays a plausible hypothesis rather than a demonstrated cause.
 
 Matches also stay close more often: 40.0% of MLS matches are decided by a single goal against 37.2% in the big five. That's the balance finding showing up again, match by match instead of in the final table.
 
